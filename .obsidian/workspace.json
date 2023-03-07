@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "14a422a78ac1c166",
+        "id": "3e74499f44eab159",
         "type": "tabs",
         "children": [
           {
-            "id": "4e461e38be7039fb",
+            "id": "2f3040c9812a412e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "types of data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cda1f15e4cdd84d",
-            "type": "leaf",
-            "state": {
-              "type": "make-mdb-viewer",
-              "state": {
-                "file": "context.mdb"
-              }
-            }
-          },
-          {
-            "id": "e372a5b5c0b4940b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "histogram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe846f3b8a5b5911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Central Values.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "stat-1400"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -128,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Central Values.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,8 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe846f3b8a5b5911",
+  "active": "2f3040c9812a412e",
   "lastOpenFiles": [
+    "stat-1400/what is data.md",
+    "what is data.md",
+    "context.mdb",
+    "stat-1400/stat-1400.md",
+    "stat-1400/types of data.md",
+    "stat-1400/histogram.md",
+    "stat-1400/Central Values.md",
     "photos/Screenshot 2023-03-07 at 12.57.03 pm.png",
     "photos/Screenshot 2023-03-07 at 12.56.37 pm.png",
     "photos/Screenshot 2023-03-07 at 12.55.39 pm.png",
@@ -201,13 +168,7 @@
     "photos/Screenshot 2023-03-07 at 1.10.01 pm.png",
     "photos/Screenshot 2023-03-07 at 1.08.45 pm.png",
     "photos/Screenshot 2023-03-07 at 1.03.03 pm.png",
-    "photos/Screenshot 2023-03-07 at 1.02.49 pm.png",
-    "histogram.md",
-    "Central Values.md",
-    "context.mdb",
-    "ways to collect data.md",
-    "types of data.md",
-    "what is data .md",
+    "stat-1400/ways to collect data.md",
     "2023-03-07.md",
     "Context",
     "cits-3002/first lecture.md",

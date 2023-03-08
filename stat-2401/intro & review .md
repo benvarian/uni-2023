@@ -1,0 +1,83 @@
+## statistical learning 
+- a vast set of tools for understanding data 
+- tools can be classified as supervised or unsupervised 
+- supervsied statistical learning involves building a statistical model for predicting, or estimating, an output based on one or more inputs 
+- linear regression is an approach for supervised statistical learnining 
+- with unsupervised statistical learning, there are inputs but no supervising output, nevertheless we can learn relationships and structure from such data 
+
+## background knowledge 
+- random variables 
+- populations and samples
+- statistical inference based on the theorem of random variables including:
+	- distributions, expectatoins and variances 
+	- law of large numbers 
+	- central limit theorem 
+	- tests of significance and confidence intervals 
+
+## quick review 
+- random variables 
+	- a quantity Y that depends on the outcome of an experiement 
+	- wrtitten as a capital Y
+	- two major types of random variables are "discrete" and "continuous" random variables
+	- a discrete random variable has a probability mass function, pmf
+	- a continuous random variable has a probability density function, pdf
+	- both discrete and continuous random varibables have cumulative distribution functions
+- populations and samples 
+	- ![[Screenshot 2023-03-07 at 5.31.49 pm.png]]
+	- population mean $$\mu$$
+	- population variance $$\sigma^2$$
+	- population median
+- Distributions, expectation and variances 
+	- let Y be a random variable 
+	- the cumulative distributive function of Y is F(y) = P( Y ≤ y )
+	- when Y is continuous, and it takes values from (-∞,∞) then 
+		- it has a pdf, f(y) = d/dy x F(y)
+		- the expected value is
+			- ![[Screenshot 2023-03-07 at 5.38.36 pm.png]]
+		- the variance is 
+			- ![[Screenshot 2023-03-07 at 5.38.51 pm.png]]
+	- When Y is discrete, it takes values from the set {y1, ..., ym}
+		- it has a pmf, P(Y = yj), j = 1, ... , m
+		- the expected value is 
+			- ![[Screenshot 2023-03-07 at 5.40.12 pm.png]]
+		- the variance is 
+			- ![[Screenshot 2023-03-07 at 5.40.30 pm.png]]
+- Gaussian / Normal Distribution 
+	- let Y be a normal ($\mu$, $\sigma^2$) random variable, it has the density 
+		- ![[Screenshot 2023-03-07 at 5.49.51 pm.png]]
+		- mean / expected value / expectation is $\mu$
+		- variance is $\sigma^2$
+		- standard normal distribution has $\mu$ = 0 and $\sigma^2$ = 1
+- Normal density 
+	- ![[Screenshot 2023-03-07 at 5.51.03 pm.png]]
+- normal cdf
+	- ![[Screenshot 2023-03-07 at 5.53.03 pm.png]]
+- numbers from the standard normal table 
+	- ![[Screenshot 2023-03-07 at 5.53.26 pm.png]]
+- numbers from the standard normal table 
+	- qnorm(1-0.05/2,0,1), 1.959964
+	- qnorm is the inverse function of cdf, known as the quantile function. here Z is a standard normal random variable 
+		- ![[Screenshot 2023-03-07 at 5.55.23 pm.png]]
+	- pnorm(1.959964,0,1), 0.975
+	- pnorm is the cdf, we have 
+		- ![[Screenshot 2023-03-07 at 5.56.38 pm.png]]
+	- when we draw a standard normal random number, 95% chance that the number would be in the interval (-1.959964, 1.959964) or (-1.96, 1.96)
+- in general if Y is a normal ($\mu$, $\sigma^2$) random variable 
+	- ![[Screenshot 2023-03-07 at 5.57.55 pm.png]]
+	- by tansformation $Z = \frac{Y - \mu}{\mu}$
+	- ![[Screenshot 2023-03-07 at 6.00.25 pm.png]]
+- Law of large numbers 
+	- let Y1, ... , Yn be a random sample of size n
+	- all Y1, ... , Yn are independent 
+	- they all have the same mean and variance 
+		- ![[Screenshot 2023-03-07 at 6.01.11 pm.png]]
+	- the average is 
+		- ![[Screenshot 2023-03-07 at 6.02.24 pm.png]]
+	- $\overline{Y}$ is a random variable and $\mu$ is a constant 
+	- when n --> ∞, then $\overline{Y}$  -> $\mu$ 
+- central limit theorem 
+	- ![[Screenshot 2023-03-07 at 6.09.33 pm.png]]
+	- ![[Screenshot 2023-03-07 at 6.11.30 pm.png]]
+	- ![[Screenshot 2023-03-07 at 6.11.45 pm.png]]
+- Use of t-distribution
+	- 

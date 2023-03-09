@@ -80,4 +80,11 @@
 	- ![[Screenshot 2023-03-07 at 6.11.30 pm.png]]
 	- ![[Screenshot 2023-03-07 at 6.11.45 pm.png]]
 - Use of t-distribution
-	- 
+	- ![[Screenshot 2023-03-09 at 2.12.31 pm.png]]
+	- ![[Screenshot 2023-03-09 at 2.14.05 pm.png]]
+	- instead you repeat the steps 2000 times so that we can plot it on a histogram 
+	- ![[Screenshot 2023-03-09 at 2.14.54 pm.png]]
+	- ![[Screenshot 2023-03-09 at 2.18.23 pm.png]]
+
+- tests of significance & confidence intervals 
+	- ![[Screenshot 2023-03-09 at 2.32.48 pm.png]]

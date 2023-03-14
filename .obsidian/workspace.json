@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "55d9b1787a8b2b64",
+        "id": "1adf367e035ad0e6",
         "type": "tabs",
         "children": [
           {
-            "id": "7db5dfcb02626347",
+            "id": "0f8d05eda5bc82b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stat-2401/intro & review .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d5e2c221be691a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "modelling of data warehouses and OLAP.md",
+                "file": "cits-3002/kr txt book 1.1, 1.2,1.5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modelling of data warehouses and OLAP.md",
+                "file": "cits-3002/kr txt book 1.1, 1.2,1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "modelling of data warehouses and OLAP.md",
+                "file": "cits-3002/kr txt book 1.1, 1.2,1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "modelling of data warehouses and OLAP.md"
+                "file": "cits-3002/kr txt book 1.1, 1.2,1.5.md"
               }
             }
           }
@@ -169,31 +155,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d5e2c221be691a4",
+  "active": "0f8d05eda5bc82b1",
   "lastOpenFiles": [
-    "photos/Screenshot 2023-03-09 at 9.41.56 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.40.11 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.39.51 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.37.43 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.37.17 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.36.27 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.36.09 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.31.24 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.29.56 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.29.26 pm.png",
-    "photos/Screenshot 2023-03-09 at 9.29.01 pm.png",
-    "stat-2401/intro & review .md",
-    "modelling of data warehouses and OLAP.md",
-    "cits-3002/physical layer, error detection and correction.md",
-    "cits-3002/first lecture.md",
+    "Screenshot 2023-03-14 at 1.15.20 pm.png",
     "progress kanban.md",
+    "context.mdb",
+    "stat-1400/spread.md",
+    "stat-1400/shape of data.md",
+    "cits-3401/modelling of data warehouses and OLAP.md",
+    "stat-1400/week 3 .md",
+    "stat-1400/Central numbers.md",
+    "stat-1400/categorical data.md",
+    "stat-1400/five numbers.md",
+    "photos/Screenshot 2023-03-14 at 9.48.32 am.png",
+    "photos/Screenshot 2023-03-14 at 9.46.18 am.png",
+    "photos/Screenshot 2023-03-14 at 9.45.24 am.png",
+    "photos/Screenshot 2023-03-14 at 9.30.52 am.png",
+    "photos/Screenshot 2023-03-14 at 9.27.56 am.png",
+    "photos/Screenshot 2023-03-14 at 11.57.21 am.png",
+    "photos/Screenshot 2023-03-14 at 11.57.01 am.png",
+    "photos/Screenshot 2023-03-14 at 11.56.45 am.png",
+    "photos/Screenshot 2023-03-14 at 11.55.53 am.png",
+    "photos/Screenshot 2023-03-14 at 11.55.35 am.png",
+    "cits-3002/first lecture.md",
+    "stat-2401/intro & review .md",
+    "cits-3002/physical layer, error detection and correction.md",
     "cits-3002/kr txt book 1.1, 1.2,1.5.md",
     "physical layer, error detection and correction.md",
     "intro & review .md",
     "stat-1400/what is data.md",
     "stat-2401/Untitled Kanban.md",
     "what is data.md",
-    "context.mdb",
     "stat-1400/stat-1400.md",
     "stat-1400/types of data.md",
     "stat-1400/histogram.md",

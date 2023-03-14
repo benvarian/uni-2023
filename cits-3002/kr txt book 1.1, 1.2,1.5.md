@@ -25,4 +25,61 @@
 - the ip protocol specifies the format of the packets that are sent and received amount routers and end systems 
 
 - network protocols
-	- 
+	- all activity that is exchanged in the internet that involved 2 or more communicating remote entitie is goverend by a protocol 
+	- definition
+		- defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event 
+
+
+# 1.2 the network edge
+- end systems are referred to as hosts becuase they host application programs such as a web browser program 
+
+## 1.2.1 access networks 
+
+## 1.5 protocol layers and their service models 
+
+### protocol layer
+- each protocol belongs to one of the layers 
+- each layer provides its service by 
+	- performing certain actions within that layer and by 
+	- using the services of the layer directly below it 
+- both physical and data link layers are responsible for handling communciation over a specific link, typically implemented in a NIC associated with a given link 
+- ![[Screenshot 2023-03-14 at 1.15.20 pm.png]]
+- five layer internet protocol stakc 
+	- application layer
+		- where network applications and their application layer protocols reside 
+		- includes HTTP, SMTP, FPT protocols 
+	- transport layer 
+		- in the internet there are two transport protocols, TCP and UDP 
+		- TCP provides a connection-oriented service to its application 
+		- this service includes guaranteed delivery of application layer messages to the destination and flow control 
+		- TCP also breaks long messages into shorter segments and provides a congestion control mechanism, so that a source throttles its transmission rate when the network is congested 
+		- the UDP protocol provides a connectionless servcie to its applications 
+		- no-frills service that provides no reliability, no flow control and no congestion control. 
+		- refer to the transport layer as a segment 
+	- network layer 
+		- responsible for mvoing network-layer packets known as datagrams from one host to another 
+		- the internet transport layer protocol in a source host passes a transport layer segment and a destination address to the network layer
+		- the network layer then provides the service of delivering the segment to the transport layer in the destination host 
+		- includes the ip protocol
+		- also contains routing protocols that determine the routes that diagrams take between soruces and destinations.
+	- link layer 
+		- to move a packet from one node to the next node in the route, the network layer relies on the services of the link layer 
+		- at each node, the network layer passes the diagram down to the link layer, which delivers the datagram to the next node along the route. at this next node, the link layer passes the datagram up to the network layer
+		- examples of link layer include 
+			- ethernet
+			- wifi 
+			- the cable access network's DOCSIS protocol 
+		- refer to link layer packets as frames
+	- physical layer 
+		- the responsibility is to move the individual bits within the frame from one node to the next 
+- the osi model 
+	- application layer
+	- presentation layer 
+		- provide services that allow communcating applications to interpret the meaining of data exchanged 
+		- these services inlcude data compression and data encryption as well as data description 
+	- session layer
+		- provides for delimiting and synchronisation of data exchange, including means the measnt to build a checkpointing and recovery scheme 
+	- transport layer 
+	- network layer 
+	- data link layer 
+	- physical layer 

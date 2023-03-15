@@ -36,8 +36,8 @@
   },
   "expandedSpaces": [
     null,
-    "/",
-    null
+    null,
+    "/"
   ],
   "folderRank": {
     "node": "root",
@@ -65,7 +65,7 @@
   ],
   "inlineBacklinks": true,
   "inlineContext": true,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical"

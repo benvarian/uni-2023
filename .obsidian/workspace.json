@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1adf367e035ad0e6",
+        "id": "07e9aa67292e1189",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8d05eda5bc82b1",
+            "id": "09ce82fbcb664b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stat-1400/linear regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39d5a103a2d0f126",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "e3a7670408e5c34e",
@@ -154,27 +167,31 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "photos/Screenshot 2023-03-14 at 1.15.20 pm.png",
-    "cits-3002/kr txt book 1.1, 1.2,1.5.md",
-    "Screenshot 2023-03-14 at 1.15.20 pm.png",
+    "stat-1400/week 4.md",
+    "stat-1400/linear regression.md",
+    "photos/Screenshot 2023-03-15 at 10.59.23 am.png",
+    "photos/Screenshot 2023-03-15 at 10.57.59 am.png",
+    "photos/Screenshot 2023-03-15 at 10.57.38 am.png",
+    "photos/Screenshot 2023-03-15 at 10.57.04 am.png",
+    "photos/Screenshot 2023-03-15 at 10.48.42 am.png",
+    "photos/Screenshot 2023-03-15 at 10.48.20 am.png",
+    "photos/Screenshot 2023-03-15 at 10.46.55 am.png",
+    "photos/Screenshot 2023-03-15 at 10.43.43 am.png",
+    "photos/Screenshot 2023-03-15 at 10.41.42 am.png",
+    "photos/Screenshot 2023-03-15 at 10.41.31 am.png",
+    "stat-1400/association.md",
+    "stat-1400/comparing groups of data.md",
+    "stat-1400/comparing transforming standardising.md",
+    "stat-1400/week 3 .md",
     "progress kanban.md",
+    "cits-3002/kr txt book 1.1, 1.2,1.5.md",
     "context.mdb",
     "stat-1400/spread.md",
     "stat-1400/shape of data.md",
     "cits-3401/modelling of data warehouses and OLAP.md",
-    "stat-1400/week 3 .md",
     "stat-1400/Central numbers.md",
     "stat-1400/categorical data.md",
     "stat-1400/five numbers.md",
-    "photos/Screenshot 2023-03-14 at 9.48.32 am.png",
-    "photos/Screenshot 2023-03-14 at 9.46.18 am.png",
-    "photos/Screenshot 2023-03-14 at 9.45.24 am.png",
-    "photos/Screenshot 2023-03-14 at 9.30.52 am.png",
-    "photos/Screenshot 2023-03-14 at 9.27.56 am.png",
-    "photos/Screenshot 2023-03-14 at 11.57.21 am.png",
-    "photos/Screenshot 2023-03-14 at 11.57.01 am.png",
-    "photos/Screenshot 2023-03-14 at 11.56.45 am.png",
-    "photos/Screenshot 2023-03-14 at 11.55.53 am.png",
     "cits-3002/first lecture.md",
     "stat-2401/intro & review .md",
     "cits-3002/physical layer, error detection and correction.md",
@@ -186,11 +203,7 @@
     "stat-1400/stat-1400.md",
     "stat-1400/types of data.md",
     "stat-1400/histogram.md",
-    "stat-1400/Central Values.md",
-    "stat-1400/ways to collect data.md",
-    "2023-03-07.md",
     "Context",
-    "cits-3401/first lecture.md",
     "photos",
     "cits-3002/Q1.datafile",
     "stat-2401",

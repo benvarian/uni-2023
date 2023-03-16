@@ -1,0 +1,11 @@
+
+- simplex connectionless
+	- sender sends its frames without waiting for the receiver to acknowledge them
+	- no attempt is made to detect or re-transmit lost frames
+	- most modern LAN tech uses this method and leave error resolution to higher layers 
+- half-duplex connectionless 
+	- each frame is individually acknowledged 
+	- frames which are lost or garbled are retransmitted if the receiver requests them or after a suitable timeout 
+- full-duplex connection oriented 
+	- each frame is individually numbered and is guaranteed by the data link layer to be received once and only once and in the right order 
+	- the result is that the data link layer presents a reliable frame stream to the network layer 

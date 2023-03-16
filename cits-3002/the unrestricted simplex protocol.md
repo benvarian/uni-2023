@@ -1,0 +1,11 @@
+
+- some assumptions 
+	- an error free channel 
+	- the senders network layer has unlimited data to send 
+	- the receivers network layer has an infinite buffer to receive the data 
+	- the functions READ_xxx_layer() and write_xxx_layer() block until their actions are complete - they execute synchronously 
+- in the sender 
+	- ![[Screenshot 2023-03-15 at 11.59.42 am.png]]
+- in the receiver 
+	- ![[Screenshot 2023-03-15 at 12.02.38 pm.png]]
+- note: when passing an array to a function in C, as we do for the frames payloads, we dont place a & operator in front of the array 

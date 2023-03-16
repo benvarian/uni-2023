@@ -1,0 +1,2 @@
+- often real networks cannot be used to test student-written low level protocol software 
+- software simulations provide a far higher degree of experimentation than possible with limited hardware and software resources

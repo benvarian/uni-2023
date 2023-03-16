@@ -1,0 +1,5 @@
+- the first thing of interest that will occur after each node has rebooted is that one node's application layer will generate and account a new messag efor delivery
+- we handle the EV_APPLICATIONREADY event with our applicaiton_ready() function
+- ![[Screenshot 2023-03-16 at 11.33.43 am.png]]
+- note 
+	- assignemnt statements such as sequence = 1 - sequence are used to quickly toggle between the values 0 and 1

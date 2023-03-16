@@ -1,0 +1,6 @@
+- The solution is to permit _multiple outstanding frames_.
+- this is made possible by having the sender transmit many frames until the medium is 'full', and then wait for acknowledgements indicating that frames have been received correctly before proceeding.
+- The obvious question is _'what do we do when either data frames or acknowledgements are lost?'_
+- two solutions 
+	- ![[go-back-n protocol]]
+	- ![[selective repeat protocol]]

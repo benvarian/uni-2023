@@ -1,0 +1,8 @@
+- There is thus strong motivation to keep the sender _and_ the medium 'busy'. We can achieve this by permitting the sender to send more than a single frame while waiting for the first acknowledgment.
+- In _sliding window_, or _clock_, protocols we have these properties:
+	- the sender has a **sending window** consisting of a list (array) of frames that have been _sent but not acknowledged_.
+	-  The sender's window size grows as more frames are sent but not yet acknowledged.
+	-  The receiver has a receiving window consisting of frames it is _willing to accept_. The receiver's window size remains constant.
+	-  Each frame being sent has a sequence number from 0 to 2n-1 (which fits in n bits). Stop-and-wait and PAR have n=1.
+	-  A window size of 1 implies that frames are only accepted in order.
+- Sliding window protocols remain synchronized under conditions of premature timeouts, garbled frames and lost frames.

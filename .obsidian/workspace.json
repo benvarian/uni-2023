@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07e9aa67292e1189",
+        "id": "6c3d0a7cd833d333",
         "type": "tabs",
         "children": [
           {
-            "id": "09ce82fbcb664b81",
+            "id": "337a4638ac23ce96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stat-1400/linear regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d5a103a2d0f126",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "progress kanban.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "progress kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "progress kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "progress kanban.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,42 +148,44 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "stat-1400/week 4.md",
-    "stat-1400/linear regression.md",
-    "photos/Screenshot 2023-03-15 at 10.59.23 am.png",
-    "photos/Screenshot 2023-03-15 at 10.57.59 am.png",
-    "photos/Screenshot 2023-03-15 at 10.57.38 am.png",
-    "photos/Screenshot 2023-03-15 at 10.57.04 am.png",
-    "photos/Screenshot 2023-03-15 at 10.48.42 am.png",
-    "photos/Screenshot 2023-03-15 at 10.48.20 am.png",
-    "photos/Screenshot 2023-03-15 at 10.46.55 am.png",
-    "photos/Screenshot 2023-03-15 at 10.43.43 am.png",
-    "photos/Screenshot 2023-03-15 at 10.41.42 am.png",
-    "photos/Screenshot 2023-03-15 at 10.41.31 am.png",
-    "stat-1400/association.md",
-    "stat-1400/comparing groups of data.md",
-    "stat-1400/comparing transforming standardising.md",
-    "stat-1400/week 3 .md",
-    "progress kanban.md",
-    "cits-3002/kr txt book 1.1, 1.2,1.5.md",
+    "Untitled.canvas",
+    "cits-3002/data link layer protocols.md",
+    "cits-3002/a complete stopandwait data-link layer protocol.md",
+    "cits-3002/sample selective-repeat protocol.md",
+    "admin",
+    "photos/Screenshot 2023-03-16 at 12.33.28 pm.png",
+    "photos/Screenshot 2023-03-16 at 12.32.16 pm.png",
+    "photos/Screenshot 2023-03-16 at 12.25.02 pm.png",
+    "photos/Screenshot 2023-03-16 at 12.06.33 pm.png",
+    "photos/Screenshot 2023-03-16 at 12.05.23 pm.png",
+    "photos/Screenshot 2023-03-16 at 12.02.12 pm.png",
+    "photos/Screenshot 2023-03-16 at 11.58.31 am.png",
+    "photos/Screenshot 2023-03-16 at 11.41.19 am.png",
+    "photos/Screenshot 2023-03-16 at 11.40.23 am.png",
+    "photos/Screenshot 2023-03-16 at 11.33.43 am.png",
+    "cits-3002/problem with selective repeat.md",
+    "cits-3002/selective repeat protocol.md",
+    "cits-3002/go-back-n protocol.md",
+    "cits-3002/the data link layer - sliding window protocols.md",
+    "cits-3002/improving the stopandwait protocol.md",
+    "cits-3002/reducing the number of data link frames.md",
+    "cits-3002/handling the arrival of new physical frames.md",
+    "cits-3002/frame pipelining.md",
+    "cits-3002/transmitting across the physical layer.md",
+    "cits-3002/receiving new messages for delivery.md",
+    "cits-3002/rebooting each node.md",
+    "admin/progress kanban.md",
+    "cits-3002/defining networks using topology files.md",
+    "cits-3002/cnet networking model.md",
+    "cits-3002/benefits of network simulation.md",
+    "cits-3002/software simulation benefits.md",
+    "cits-3002/using simulation to develop network protocols.md",
+    "cits-3002/detecting frame loss.md",
+    "cits-3002/detecting frame corruption.md",
+    "cits-3002/half-duplex stop and wait protocol.md",
+    "cits-3002/the unrestricted simplex protocol.md",
+    "cits-3002/declaration for introductory protocols.md",
     "context.mdb",
-    "stat-1400/spread.md",
-    "stat-1400/shape of data.md",
-    "cits-3401/modelling of data warehouses and OLAP.md",
-    "stat-1400/Central numbers.md",
-    "stat-1400/categorical data.md",
-    "stat-1400/five numbers.md",
-    "cits-3002/first lecture.md",
-    "stat-2401/intro & review .md",
-    "cits-3002/physical layer, error detection and correction.md",
-    "physical layer, error detection and correction.md",
-    "intro & review .md",
-    "stat-1400/what is data.md",
-    "stat-2401/Untitled Kanban.md",
-    "what is data.md",
-    "stat-1400/stat-1400.md",
-    "stat-1400/types of data.md",
-    "stat-1400/histogram.md",
     "Context",
     "photos",
     "cits-3002/Q1.datafile",

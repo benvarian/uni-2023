@@ -1,0 +1,9 @@
+- simplicity 
+	- users should understand the design 
+	- data model should match users conceptual model 
+	- queries should be easy and intuitive to write 
+- expressiveness 
+	- include enough info to answer important queries 
+	- include all relevant data 
+- performance 
+	- an efficient physical design should be possible 

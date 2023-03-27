@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "337a4638ac23ce96",
+            "id": "c7cdf9993f826b5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cits-3401/data cube technologies .md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cits-3401/data cube technologies .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cits-3401/data cube technologies .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cits-3401/data cube technologies .md"
+              }
             }
           }
         ]
@@ -146,45 +154,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb2358211a9aa25",
+  "active": "c7cdf9993f826b5d",
   "lastOpenFiles": [
+    "cits-3401/data cube.md",
+    "cits-3401/data cube technologies .md",
+    "cits-3401/answering queries with data cubes.md",
+    "photos/Screenshot 2023-03-27 at 3.26.39 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.26.27 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.25.14 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.24.49 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.24.24 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.20.55 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.13.48 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.13.18 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.11.52 pm.png",
+    "photos/Screenshot 2023-03-27 at 3.07.00 pm.png",
+    "cits-3401/olap operations.md",
+    "cits-3401/goals for logical design.md",
+    "cits-3401/data warehouse design template.md",
+    "cits-3401/star schema vs snowflake schema.md",
+    "cits-3401/schema.md",
+    "cits-3401/galaxy schema (fact constellation).md",
+    "cits-3401/snowflake schema.md",
+    "cits-3401/star schema.md",
+    "cits-3401/logical data warehouse design.md",
+    "cits-3401/modelling of data warehouses and OLAP.md",
+    "stat-1400/week 4.md",
+    "stat-1400/comparing transforming standardising.md",
+    "stat-1400/week 3 .md",
+    "stat-1400/types of data.md",
+    "stat-1400/shape of data.md",
+    "stat-1400/spread.md",
+    "stat-1400/Central Values.md",
     "Untitled.canvas",
     "cits-3002/data link layer protocols.md",
     "cits-3002/a complete stopandwait data-link layer protocol.md",
     "cits-3002/sample selective-repeat protocol.md",
     "admin",
-    "photos/Screenshot 2023-03-16 at 12.33.28 pm.png",
-    "photos/Screenshot 2023-03-16 at 12.32.16 pm.png",
-    "photos/Screenshot 2023-03-16 at 12.25.02 pm.png",
-    "photos/Screenshot 2023-03-16 at 12.06.33 pm.png",
-    "photos/Screenshot 2023-03-16 at 12.05.23 pm.png",
-    "photos/Screenshot 2023-03-16 at 12.02.12 pm.png",
-    "photos/Screenshot 2023-03-16 at 11.58.31 am.png",
-    "photos/Screenshot 2023-03-16 at 11.41.19 am.png",
-    "photos/Screenshot 2023-03-16 at 11.40.23 am.png",
-    "photos/Screenshot 2023-03-16 at 11.33.43 am.png",
     "cits-3002/problem with selective repeat.md",
     "cits-3002/selective repeat protocol.md",
-    "cits-3002/go-back-n protocol.md",
-    "cits-3002/the data link layer - sliding window protocols.md",
-    "cits-3002/improving the stopandwait protocol.md",
-    "cits-3002/reducing the number of data link frames.md",
-    "cits-3002/handling the arrival of new physical frames.md",
-    "cits-3002/frame pipelining.md",
-    "cits-3002/transmitting across the physical layer.md",
-    "cits-3002/receiving new messages for delivery.md",
-    "cits-3002/rebooting each node.md",
-    "admin/progress kanban.md",
-    "cits-3002/defining networks using topology files.md",
-    "cits-3002/cnet networking model.md",
-    "cits-3002/benefits of network simulation.md",
-    "cits-3002/software simulation benefits.md",
-    "cits-3002/using simulation to develop network protocols.md",
-    "cits-3002/detecting frame loss.md",
-    "cits-3002/detecting frame corruption.md",
-    "cits-3002/half-duplex stop and wait protocol.md",
-    "cits-3002/the unrestricted simplex protocol.md",
-    "cits-3002/declaration for introductory protocols.md",
     "context.mdb",
     "Context",
     "photos",

@@ -32,7 +32,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": []
+    "/": [
+      "cits-3401"
+    ]
   },
   "expandedSpaces": [
     null,

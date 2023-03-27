@@ -1,0 +1,11 @@
+- star 
+	- fewer tables
+	- faster when browsing data 
+	- has more redundant information 
+- snowflake 
+	- more tables 
+	- slower when browsing data 
+	- reduces redundancy 
+- redundancy 
+	- more storage 
+	- more work in data integration and cleaning 

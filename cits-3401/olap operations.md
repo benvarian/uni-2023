@@ -1,0 +1,50 @@
+
+- typical olap operations 
+	- roll up: summarise data
+	- drill down: reverse of roll-up
+	- slice and dice
+	- pivot (rotate)
+	- other operations 
+		- drill across 
+			- involving multiple fact tables 
+		- drill through 
+			- through the bottom level of the cube to its back-end relational tables 
+- data cube queries 
+	- cross tabulation 
+		- cross tab for short 
+		- report data grouped by 2 dimensions 
+		- aggregate across other dimensions 
+		- include subtotals 
+	- operations on a cross-tab 
+		- roll up (further aggregation)
+		- drill down (less aggregation)
+- roll up and drill down 
+	- ![[Screenshot 2023-03-27 at 3.11.52 pm.png]]
+- slice and dice 
+	- slice 
+		- to pick a rectangular subset of a cube by choosing a single value for one of its dimensions, creating a new cube with one fewer dimension
+	- dice 
+		- produces a subcube by allowing the analyst to pick specific values of multiple dimensions 
+	- ![[Screenshot 2023-03-27 at 3.13.18 pm.png]]
+- example of all the olap operations 
+	- ![[Screenshot 2023-03-27 at 3.13.48 pm.png]]
+
+- drill across example 
+	- question  
+		- how did sales diverge from forecasted sales in sep 19
+		- drill across between forecast and sales 
+	- step 1
+		- query forecast fact 
+			- group by brand name, district name 
+			- filter on monthandyear='sep 19'
+			- calculate SUM(forecastAmt)
+			- query result has schema (brand name, district name, forecastAmt)
+	- step 2
+		- query sales fact 
+			- group by brand name, district name 
+			- filter on monthandyear = 'sept 19'
+			- calculate sum(totalsalesAmt)
+			- query result has schema 
+	- step 3 
+		- combine query results 
+			- join res 1 and res 2 on brand name and district name 

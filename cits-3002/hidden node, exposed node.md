@@ -1,0 +1,16 @@
+
+- As a first guess, it would appear that the standard (wired) Ethernet protocol should also work for wireless networks - simply wait until the medium (airwaves) becomes clear, transmit, and then retransmit if a collision occurs.
+- However, this simple approach will not work, primarily because not all nodes are within range of each other.
+- consider the 2 examples 
+	- ![[Screenshot 2023-03-28 at 6.22.26 pm.png]]
+- a) 
+	- A wishes to send a frame to B
+	- but a cannot hear that B is busy receiving a message from C
+	- if A transmits after detecting an idle medium, a collision may result near B
+	- **this is called the hidden terminal or node problem**
+	- c is hidden from a, but their communications can interfere 
+- b)
+	- b wishes to transmit to C
+	- but hears that A is transmitting 
+	- b incorrectly concludes that it cannot transmit to C, for fear of causing a collision
+	- **this is the exposed terminal or node problem** 

@@ -1,0 +1,6 @@
+- each 802.3 packet contains the source and destination address, each of 6 bytes (48 bits)
+	- ![[Screenshot 2023-03-28 at 6.05.23 pm.png]]
+- if all 48 destination bits are set to 1, the packet is a broadcast address destined for all stations on a LAN
+- the high order bit 47, is used to indicate addressing domains, 0 being for individual addresses and 1 being for multicast addresses 
+- bit 46 indicated whether the address is for the current LAN or for a more global station on another LAN
+- using $2^{46}$ bits each device in the world can have a unique ethernet card number 

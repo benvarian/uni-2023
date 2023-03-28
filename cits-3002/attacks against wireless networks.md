@@ -1,0 +1,16 @@
+
+- physical layer attacks 
+	- attackers of wireless networks need not be close to the network infrastructure, and leave no physical evidence that something has changed 
+	- an attacker may develop a device to simply saturate the frequency bands with RF noise. this reduces the signal-to-noise ratio, resuling in the receiver not been able to discern any valid signal, or having so many packet collisions in the medium that the bandwith is cycled to its lowest value
+- data link attacks 
+	- many commercial access points employ antenna diversity, the use of multiple antennae connected to the same access-point. a typical access point connected to a solid wall, with an antenna on either side of the wall 
+	- the acces point learns on which side of the wall a certain MAC address resides, and transmits using that antenna. the dynamic choice of antenna depends on which antenna receives the strongest signal from a particular MAC address
+	- **an attacker can programmatically change their mobile cards wireless MAC address to use the MAC address of their victim, and transmit from the other side of the wall**
+- data link attacks 
+	- also simple to configure a laptops wireless card to mimic an access point 
+	- if a victims node associates with the access point with the strongest singal, the attacker can monitor, or simply drop all traffic from the victim 
+	- attacks involving the complete termination of communcation stream are often termed "black-hole" attacks, ones which only selectively drop or transmit a victims packets are termed grey-hole attacks 
+- network-layer attacks 
+	- once a wireless network has acquired a mobile node, the node may perform many standard Dos attacks at the network layer, such as ICMP floods 
+	- the network segment hosting the access point should itself be isolated from the cabled network though another firewall and authenticated DHCP or a VPN futher used to constrain traffic 
+	- **the access point shouldnt be directly connected to the companys network, and then connected to the internet**

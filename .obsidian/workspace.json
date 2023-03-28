@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Area networks (LANS and WANs).md",
+                "file": "cits-3002/Local Area networks (LANS and WANs).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93eee281240c7a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3002/wireless network encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01dfc6fc85c591c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3002/wired equivalent privacy (WEP) algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7abfc4b0cb67badd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3002/conventional channel allocation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Area networks (LANS and WANs).md",
+                "file": "cits-3002/conventional channel allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Area networks (LANS and WANs).md",
+                "file": "cits-3002/conventional channel allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Area networks (LANS and WANs).md"
+                "file": "cits-3002/conventional channel allocation.md"
               }
             }
           }
@@ -154,44 +191,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3088cd1a2e4143c1",
+  "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    "cits-3002/carrier sense networks.md",
+    "cits-3002/WEP encryption.md",
+    "photos/Screenshot 2023-03-28 at 8.01.40 pm.png",
+    "photos/Screenshot 2023-03-28 at 8.01.00 pm.png",
+    "photos/Screenshot 2023-03-28 at 7.40.10 pm.png",
+    "photos/Screenshot 2023-03-28 at 7.33.26 pm.png",
+    "photos/Screenshot 2023-03-28 at 7.31.42 pm.png",
+    "photos/Screenshot 2023-03-28 at 6.22.26 pm.png",
+    "photos/Screenshot 2023-03-28 at 6.20.09 pm.png",
+    "photos/Screenshot 2023-03-28 at 6.19.08 pm.png",
+    "photos/Screenshot 2023-03-28 at 6.17.46 pm.png",
+    "photos/Screenshot 2023-03-28 at 6.15.58 pm.png",
+    "cits-3002/wired equivalent privacy (WEP) algorithm.md",
+    "cits-3002/wireless network encryption.md",
+    "cits-3002/Local Area networks (LANS and WANs).md",
+    "cits-3002/attacks against wireless networks.md",
+    "cits-3002/access point association.md",
+    "cits-3002/the IEEE-802.11 wireless lan protocol.md",
+    "cits-3002/802.11 collision avoidance.md",
+    "cits-3002/hidden node, exposed node.md",
+    "cits-3002/hubs, switches, and collision domains.md",
+    "cits-3002/IEEE-802.x LAN standards - the ethernet system.md",
+    "cits-3002/packet transport mechanisms.md",
+    "cits-3002/ethernet addressing schemes.md",
+    "cits-3002/physical properties.md",
+    "cits-3002/ethernets contention algorithm.md",
+    "cits-3002/non and p-persistent CSMA protocols.md",
+    "cits-3002/persistent CSMA protocols.md",
+    "cits-3002/pure ALOHA.md",
+    "cits-3002/slotted aloha.md",
+    "cits-3002/conventional channel allocation.md",
+    "cits-3002/local area networks.md",
+    "cits-3002/implication for network protocols.md",
+    "cits-3002/simplified satellite broadcasting.md",
     "cits-3401/practical concerns of dimensional modelling .md",
-    "Local Area networks (LANS and WANs).md",
-    "photos/Screenshot 2023-03-28 at 3.48.04 pm.png",
-    "photos/Screenshot 2023-03-28 at 12.30.54 pm.png",
-    "photos/Screenshot 2023-03-28 at 12.15.57 pm.png",
-    "photos/Screenshot 2023-03-28 at 12.12.36 pm.png",
-    "photos/Screenshot 2023-03-28 at 12.06.08 pm.png",
-    "photos/Screenshot 2023-03-28 at 12.05.41 pm.png",
-    "photos/Screenshot 2023-03-28 at 10.25.41 am.png",
-    "photos/Screenshot 2023-03-28 at 10.25.24 am.png",
-    "photos/Screenshot 2023-03-27 at 4.38.39 pm.png",
-    "photos/Screenshot 2023-03-27 at 4.28.12 pm.png",
-    "cits-3401/Data warehouse project planning .md",
-    "cits-3401/data cube technologies .md",
-    "cits-3401/modelling of data warehouses and OLAP.md",
-    "cits-3401/first lecture.md",
-    "cits-3401/data warehouse design template.md",
-    "cits-3401/star schema.md",
-    "cits-3401/data cube.md",
-    "cits-3401/answering queries with data cubes.md",
-    "cits-3401/olap operations.md",
-    "cits-3401/goals for logical design.md",
-    "cits-3401/star schema vs snowflake schema.md",
-    "cits-3401/schema.md",
-    "cits-3401/galaxy schema (fact constellation).md",
-    "cits-3401/snowflake schema.md",
-    "cits-3401/logical data warehouse design.md",
-    "stat-1400/week 4.md",
-    "stat-1400/comparing transforming standardising.md",
-    "stat-1400/week 3 .md",
-    "stat-1400/types of data.md",
-    "stat-1400/shape of data.md",
-    "stat-1400/spread.md",
-    "stat-1400/Central Values.md",
     "Untitled.canvas",
-    "cits-3002/data link layer protocols.md",
     "admin",
     "context.mdb",
     "Context",

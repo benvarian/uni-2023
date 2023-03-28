@@ -1,0 +1,11 @@
+
+- the satellite channel must control its own allocation 
+- ![[Screenshot 2023-03-28 at 3.57.14 pm.png]]
+- the advantages of this shared medium are
+	- no data link layer acknowledgements needed, each sender can verify the correctness of their own messages 
+	- no routing problems in the network layer subnet 
+	- no congestoin problems or topology optimisation 
+	- mobile users may be supported
+- the disadvantages of this approach are
+	- long propagatoin delay of at least 270 msec 
+	- all users receive all messages, introducing security implications, and there can be no central control of unethical users 

@@ -1,0 +1,7 @@
+- a collision now occurs when a device or LAN-segment recieves two or more signals simultensously 
+- the goal is to reduce collisions by either resolving them quickly or reducing the liklihood of them occuring at all 
+- the diagram below shows the difference between a hub and a switch, when node F is transmitting to node C
+- ![[Screenshot 2023-03-28 at 6.15.58 pm.png]]
+- the hub will retransmit the frame to all of its outgoing ports, whereas the switch will more intelligently retransmit the signal to the ports known to be wanting the frame 
+- a collision domain is the set of devices receiving a frame collision
+- ![[Screenshot 2023-03-28 at 6.17.46 pm.png]]

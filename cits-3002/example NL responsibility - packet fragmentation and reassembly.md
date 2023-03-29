@@ -1,0 +1,11 @@
+- ![[Screenshot 2023-03-29 at 11.03.13 am.png]]
+- messages may be divided into smaller data units, termed packets, before transmission 
+- these packets may traverse the network independetly until they reach the destination node 
+- **this requires fragmenting or segmenting the messages into packets at the source node and then reassembling the packets into messages at the destination**
+- each packets must indicate that it is part of some bigger message 
+- **an important consideration for fragmentation is determining the optimal packet size**
+- compared to variable sized packets, fixed size has these benefits 
+	- throughout the network, each nodes buffer size may be fixed 
+	- simpler to prevent congestion at a destintation node, since the destination may accurately estimate the number of buffers to pre-allocate 
+	- fixed-sze packets result in simpler memory allocation schemes, typically once-only allocation can be used instead of constantly using random-sized fully dynamic allocation 
+- **the main disadvantage with fixed-size packets is under-utilisation of memory when the message size slightly exceeds an integral multiple of the packet size**

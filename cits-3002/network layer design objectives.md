@@ -1,0 +1,3 @@
+- be independent of processor/communication technology 
+- to be independent of the number, type and topology of the subnets, and 
+- provide a uniform addressing scheme for all hosts in the network 

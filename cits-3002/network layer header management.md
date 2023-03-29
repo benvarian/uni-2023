@@ -1,0 +1,12 @@
+
+- created in source node
+- examined in intermediate nodes 
+- removed in the destination node 
+- the headers typically contain 
+	- the soruce and destination node address 
+	- packet size, if packets may be of more than one size 
+	- message number, possibly packet number within that message 
+	- several control bits indicating if the packet is a 'user-data' packet or a control packet, whether or not it is fragmented, fixed or variable length 
+	- flow control information, such as permission to send additional messages ,or flags to change the rate of flow 
+	- packet priority 
+- finally the data potion of the packet includes the user data, control commands and network wide statistics 

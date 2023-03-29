@@ -1,0 +1,11 @@
+
+- all ARPANET links were the same speed, and so the routing metric was just hops
+- as diversity increasity other metricts were required
+- in addition, the growing size of the network exposed the slow convergence of distance vector routing 
+	- ![[Screenshot 2023-03-29 at 12.17.49 pm.png]]
+- rotuers using link state routing periodically undertake 5 steps 
+	- discover their neighbours network addresses (send request packets, receive reply packets)
+	- measure the delay or cost to each of its neighbours (immediate delay, or queued delay)
+	- construct link-stat packets containing all just learnt
+	- broadcast this packet to all neighbours (use a flooding variant to ensure quick propagation)
+	- compute the shortest path to each other router 

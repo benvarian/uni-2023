@@ -1,0 +1,13 @@
+
+- the term load shedding is borrowed from electrical power supplied, if not all demand can be met, some section is deliberately disadvantaged 
+- the appraoch is to discard packets when they cannot all be managed 
+- if there is inadequate router memory then discard some incoming packets 
+- must be performed under many contraints 
+	- must balance reasonable delay and user freedom
+	- maintain fair access to the network for all users 
+	- respect rights of priority users 
+- a number of reasonable strategies exist for discarding packets
+	- consider the priority of each packet (dont drop the high priority packets)
+	- dont discard ACKs, throw out the data instead 
+	- make packets carry a hop counter, dont disacrd a DATA packet if it has travelled a long way, instead discard one that has travelled a short distance 
+	- examine the type of traffic being carried, file transfers must eventually see all the frames, all the discarded frames will be retransmitted. Discard frames with high sequene numbers, not low numbers 

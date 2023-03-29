@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a6405773b9eaf16b",
+        "id": "84763a0ef83a1a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3088cd1a2e4143c1",
+            "id": "c0f1bcac26df9a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/Local Area networks (LANS and WANs).md",
+                "file": "cits-3002/Network layer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93eee281240c7a64",
+            "id": "a8288cb07d1d3137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/wireless network encryption.md",
+                "file": "cits-3002/end-to-end flow control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c01dfc6fc85c591c",
+            "id": "88b679b790c6e3b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/wired equivalent privacy (WEP) algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7abfc4b0cb67badd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3002/conventional channel allocation.md",
+                "file": "cits-3002/traffic shaping - leaky bucket algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cits-3002/conventional channel allocation.md",
+                "file": "cits-3002/end-to-end flow control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cits-3002/conventional channel allocation.md",
+                "file": "cits-3002/end-to-end flow control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cits-3002/conventional channel allocation.md"
+                "file": "cits-3002/end-to-end flow control.md"
               }
             }
           }
@@ -193,41 +181,41 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "cits-3002/carrier sense networks.md",
-    "cits-3002/WEP encryption.md",
-    "photos/Screenshot 2023-03-28 at 8.01.40 pm.png",
-    "photos/Screenshot 2023-03-28 at 8.01.00 pm.png",
-    "photos/Screenshot 2023-03-28 at 7.40.10 pm.png",
-    "photos/Screenshot 2023-03-28 at 7.33.26 pm.png",
-    "photos/Screenshot 2023-03-28 at 7.31.42 pm.png",
-    "photos/Screenshot 2023-03-28 at 6.22.26 pm.png",
-    "photos/Screenshot 2023-03-28 at 6.20.09 pm.png",
-    "photos/Screenshot 2023-03-28 at 6.19.08 pm.png",
-    "photos/Screenshot 2023-03-28 at 6.17.46 pm.png",
-    "photos/Screenshot 2023-03-28 at 6.15.58 pm.png",
-    "cits-3002/wired equivalent privacy (WEP) algorithm.md",
-    "cits-3002/wireless network encryption.md",
+    "cits-3002/a naive non-adaptive routing algorithm - flooding.md",
+    "cits-3002/traffic shaping - token bucket algorithm.md",
+    "photos/Screenshot 2023-03-29 at 12.48.49 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.45.26 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.36.08 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.23.49 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.17.49 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.11.27 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.09.58 pm.png",
+    "photos/Screenshot 2023-03-29 at 12.01.46 pm.png",
+    "photos/Screenshot 2023-03-29 at 11.53.37 am.png",
+    "photos/Screenshot 2023-03-29 at 11.24.24 am.png",
+    "cits-3002/Network layer.md",
+    "cits-3002/traffic shaping - leaky bucket algorithm.md",
+    "cits-3002/end-to-end flow control.md",
+    "cits-3002/load shedding.md",
+    "cits-3002/congestion and flow control in the network layer.md",
+    "cits-3002/adaptive routing - link state routing.md",
+    "cits-3002/the count to infinity problem.md",
+    "cits-3002/adaptive routing - distance vector routing.md",
+    "cits-3002/network layer routing algorithms.md",
+    "cits-3002/two classes of routing algorithm.md",
+    "cits-3002/improved flooding algorithms.md",
+    "cits-3002/two contending network layer schemes.md",
+    "cits-3002/path of frames and packets.md",
+    "cits-3002/network layer header management.md",
+    "cits-3002/responsibilities of the network layer.md",
+    "cits-3002/example NL responsibility - packet fragmentation and reassembly.md",
+    "cits-3002/the relationship between hosts and the subnet.md",
+    "cits-3002/implications for data link layer software.md",
+    "cits-3002/the network layer.md",
+    "cits-3002/network layer design objectives.md",
+    "admin/progress kanban.md",
     "cits-3002/Local Area networks (LANS and WANs).md",
-    "cits-3002/attacks against wireless networks.md",
-    "cits-3002/access point association.md",
-    "cits-3002/the IEEE-802.11 wireless lan protocol.md",
-    "cits-3002/802.11 collision avoidance.md",
-    "cits-3002/hidden node, exposed node.md",
-    "cits-3002/hubs, switches, and collision domains.md",
-    "cits-3002/IEEE-802.x LAN standards - the ethernet system.md",
-    "cits-3002/packet transport mechanisms.md",
-    "cits-3002/ethernet addressing schemes.md",
-    "cits-3002/physical properties.md",
-    "cits-3002/ethernets contention algorithm.md",
-    "cits-3002/non and p-persistent CSMA protocols.md",
-    "cits-3002/persistent CSMA protocols.md",
-    "cits-3002/pure ALOHA.md",
-    "cits-3002/slotted aloha.md",
-    "cits-3002/conventional channel allocation.md",
-    "cits-3002/local area networks.md",
-    "cits-3002/implication for network protocols.md",
-    "cits-3002/simplified satellite broadcasting.md",
-    "cits-3401/practical concerns of dimensional modelling .md",
+    "cits-3002/wireless network encryption.md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

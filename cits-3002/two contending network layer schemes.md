@@ -1,0 +1,16 @@
+
+- the telecommunicatoins companies beleive that all data should be transmitted reliably by the network layer 
+- their proposal is for a connection based service, term "virtual ciruit" in which 
+	- before sending data, the transport layer should establish a semi-permanent connection between the source and destination 
+	- the two transport layers then agree about the type and quality of service that is required and will be available 
+	- communcation then occurs between the two parites in a duplex fashion along the acquired connection 
+	- the connection is then closed by both parties 
+	- each routing device maintain tables of pairs of source and virtual circuit numbers and destination and virtual circuit numbers 
+---
+- in contrast the other group is the internet community, who base their opinions on 40+ years experience with a practical, working implementation 
+- they believe the subnets job is to transmit bits, and it is known to be unreiabile 
+- they said that with this connectionless, datagram scheme 
+	- that the hosts must perform any required error processing. Thus error processing is "relinqueished" to the transport layer 
+	- that each host operates in a connectionless fashion in which each of information is moved between sources and destination without a permanent connection between them 
+	- that each packet moves independently of all previous packets between the same source and destination machines, with each packets possibly taking a different route 
+- the result is that the only services provided by the network layer to the transport layer are to perform the operations of send packet and receive packet and no negotiation is possible 

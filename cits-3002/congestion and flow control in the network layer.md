@@ -1,0 +1,23 @@
+
+- if to many packets are dumped into some part of the subnet - network performance will degrade sharply 
+- worse still, when performance degrades, timeouts and re-transmission of packets will increase 
+- if all available buffer space in each router is exhausted, then incoming packets will be discarded, causiing further re-transmissions
+- congestion is both a problem that a node's netowkr layer must avoid, and must address 
+- ![[Screenshot 2023-03-29 at 12.23.49 pm.png]]
+- congestion control is concerned with ensuring that the subnet can carry the offered traffic - global issue concerning all hosts and rotuers working together 
+- flow control is concerened with end-to-end control 
+- the sender must not swamp the reciever, and typically involved direct feedack from the reciever to the sender to slow down
+- **both congestion and flow control have the same aim, to reduce the offered traffic entering the network when the load is already high**
+- congestion will be detected through a number of local and global metrics 
+	- percentage of packets discarded for lack of buffer space 
+	- average router queue lengths 
+	- number of packets timing out requiring retransmission 
+	- average packet delay 
+
+- Open loop control attempts to prevent congestion in the first place, rather than correcting it. virtual circuit systems will perform open loop control by preallocating buffer space for each virtual circuit 
+	- new VCs will not be created via an intermediate router is low on memory 
+	- a new VC may have to be created via another path 
+- closed loop control maintains a feedback loop of three stages 
+	- monitoring of local subnet to detect where congestion occurs 
+	- passing information to where corrective action may be taken 
+	- adjustment of local operation to correct problem

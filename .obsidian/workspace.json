@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 5.md",
+                "file": "stat-1400/Week 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6.md",
+                "file": "stat-1400/Week 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sum.md",
+                "file": "stat-1400/continuous random variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributions.md",
+                "file": "stat-1400/distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sampling the distribution.md",
+                "file": "stat-1400/sampling the distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,13 +122,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "e3a7670408e5c34e",
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sum.md",
+                "file": "stat-1400/continuous random variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sum.md",
+                "file": "stat-1400/continuous random variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sum.md"
+                "file": "stat-1400/continuous random variables.md"
               }
             }
           }
@@ -205,38 +203,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c45f4ce70ababb5",
+  "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "Screenshot 2023-03-30 at 1.07.59 pm.png",
-    "Screenshot 2023-03-30 at 1.05.06 pm.png",
-    "Screenshot 2023-03-30 at 1.04.30 pm.png",
-    "Screenshot 2023-03-30 at 1.03.32 pm.png",
-    "Screenshot 2023-03-30 at 1.01.47 pm.png",
-    "Screenshot 2023-03-30 at 1.01.24 pm.png",
-    "Screenshot 2023-03-30 at 1.00.51 pm.png",
-    "Screenshot 2023-03-30 at 1.00.08 pm.png",
-    "Screenshot 2023-03-30 at 12.59.49 pm.png",
-    "distributions.md",
-    "sampling the distribution.md",
-    "sum.md",
-    "Screenshot 2023-03-30 at 12.56.31 pm.png",
-    "Screenshot 2023-03-30 at 12.55.57 pm.png",
-    "Week 6.md",
-    "transforming.md",
-    "expected value.md",
-    "sampling.md",
-    "Week 5.md",
-    "cumulative distribution function.md",
-    "calculus notation.md",
-    "continuous random variables.md",
-    "probability density.md",
-    "expectation.md",
+    "stat-1400/calculus notation.md",
+    "stat-1400/sum.md",
+    "photos/Screenshot 2023-03-30 at 12.59.49 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.56.31 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.55.57 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.54.46 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.54.25 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.53.46 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.52.26 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.34.16 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.33.22 pm.png",
+    "photos/Screenshot 2023-03-30 at 12.32.39 pm.png",
+    "stat-1400/distributions.md",
+    "stat-1400/sampling the distribution.md",
+    "stat-1400/Week 6.md",
+    "stat-1400/transforming.md",
+    "stat-1400/expected value.md",
+    "stat-1400/sampling.md",
+    "stat-1400/Week 5.md",
+    "stat-1400/cumulative distribution function.md",
+    "stat-1400/continuous random variables.md",
+    "stat-1400/probability density.md",
+    "stat-1400/expectation.md",
     "stat-1400/spread.md",
-    "random variable.md",
-    "looking ahead.md",
-    "discrete random variable.md",
-    "Frequentism.md",
-    "density.md",
+    "stat-1400/random variable.md",
+    "stat-1400/looking ahead.md",
+    "stat-1400/discrete random variable.md",
+    "stat-1400/Frequentism.md",
+    "stat-1400/density.md",
     "cits-3002/traffic shaping - leaky bucket algorithm.md",
     "cits-3002/end-to-end flow control.md",
     "stat-1400/linear regression.md",

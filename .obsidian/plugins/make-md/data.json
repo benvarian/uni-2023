@@ -67,7 +67,7 @@
   ],
   "inlineBacklinks": true,
   "inlineContext": true,
-  "inlineBacklinksExpanded": false,
+  "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical"

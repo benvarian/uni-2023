@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "84763a0ef83a1a3f",
+        "id": "d660d8aab06befe2",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f1bcac26df9a8c",
+            "id": "7c77088dad313591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/Network layer.md",
+                "file": "Week 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8288cb07d1d3137",
+            "id": "0745d32c2509afb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/end-to-end flow control.md",
+                "file": "Week 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88b679b790c6e3b0",
+            "id": "7c45f4ce70ababb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/traffic shaping - leaky bucket algorithm.md",
+                "file": "sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b64c849dfea2c37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8cb7358b565800d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sampling the distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,11 +122,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "e3a7670408e5c34e",
@@ -118,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cits-3002/end-to-end flow control.md",
+                "file": "sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cits-3002/end-to-end flow control.md",
+                "file": "sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cits-3002/end-to-end flow control.md"
+                "file": "sum.md"
               }
             }
           }
@@ -179,43 +205,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb2358211a9aa25",
+  "active": "7c45f4ce70ababb5",
   "lastOpenFiles": [
-    "cits-3002/a naive non-adaptive routing algorithm - flooding.md",
-    "cits-3002/traffic shaping - token bucket algorithm.md",
-    "photos/Screenshot 2023-03-29 at 12.48.49 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.45.26 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.36.08 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.23.49 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.17.49 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.11.27 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.09.58 pm.png",
-    "photos/Screenshot 2023-03-29 at 12.01.46 pm.png",
-    "photos/Screenshot 2023-03-29 at 11.53.37 am.png",
-    "photos/Screenshot 2023-03-29 at 11.24.24 am.png",
-    "cits-3002/Network layer.md",
+    "Screenshot 2023-03-30 at 1.07.59 pm.png",
+    "Screenshot 2023-03-30 at 1.05.06 pm.png",
+    "Screenshot 2023-03-30 at 1.04.30 pm.png",
+    "Screenshot 2023-03-30 at 1.03.32 pm.png",
+    "Screenshot 2023-03-30 at 1.01.47 pm.png",
+    "Screenshot 2023-03-30 at 1.01.24 pm.png",
+    "Screenshot 2023-03-30 at 1.00.51 pm.png",
+    "Screenshot 2023-03-30 at 1.00.08 pm.png",
+    "Screenshot 2023-03-30 at 12.59.49 pm.png",
+    "distributions.md",
+    "sampling the distribution.md",
+    "sum.md",
+    "Screenshot 2023-03-30 at 12.56.31 pm.png",
+    "Screenshot 2023-03-30 at 12.55.57 pm.png",
+    "Week 6.md",
+    "transforming.md",
+    "expected value.md",
+    "sampling.md",
+    "Week 5.md",
+    "cumulative distribution function.md",
+    "calculus notation.md",
+    "continuous random variables.md",
+    "probability density.md",
+    "expectation.md",
+    "stat-1400/spread.md",
+    "random variable.md",
+    "looking ahead.md",
+    "discrete random variable.md",
+    "Frequentism.md",
+    "density.md",
     "cits-3002/traffic shaping - leaky bucket algorithm.md",
     "cits-3002/end-to-end flow control.md",
-    "cits-3002/load shedding.md",
-    "cits-3002/congestion and flow control in the network layer.md",
-    "cits-3002/adaptive routing - link state routing.md",
-    "cits-3002/the count to infinity problem.md",
-    "cits-3002/adaptive routing - distance vector routing.md",
-    "cits-3002/network layer routing algorithms.md",
-    "cits-3002/two classes of routing algorithm.md",
-    "cits-3002/improved flooding algorithms.md",
-    "cits-3002/two contending network layer schemes.md",
-    "cits-3002/path of frames and packets.md",
-    "cits-3002/network layer header management.md",
-    "cits-3002/responsibilities of the network layer.md",
-    "cits-3002/example NL responsibility - packet fragmentation and reassembly.md",
-    "cits-3002/the relationship between hosts and the subnet.md",
-    "cits-3002/implications for data link layer software.md",
-    "cits-3002/the network layer.md",
-    "cits-3002/network layer design objectives.md",
-    "admin/progress kanban.md",
-    "cits-3002/Local Area networks (LANS and WANs).md",
-    "cits-3002/wireless network encryption.md",
+    "stat-1400/linear regression.md",
+    "cits-3002/Network layer.md",
+    "cits-3002/a naive non-adaptive routing algorithm - flooding.md",
+    "cits-3002/traffic shaping - token bucket algorithm.md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

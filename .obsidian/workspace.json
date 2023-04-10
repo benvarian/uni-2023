@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "82b22d873f601c5f",
+        "id": "8d920b33508f4dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "67be9e68df9dbb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3002/physical layer, error detection and correction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e15923f551823e07",
+            "id": "8aebea9bc2875225",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png"
-              }
-            }
-          },
-          {
-            "id": "99a2f862d95d1f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
-                "mode": "source",
-                "source": false
+                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
+                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
+                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png"
+                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png"
               }
             }
           }
@@ -179,13 +154,17 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    ".md",
+    "cits-3002/tan 3.3 -> 3.4.md",
+    "photos/Screenshot 2023-04-10 at 2.00.09 pm.png",
+    "photos/Screenshot 2023-04-10 at 1.18.31 pm.png",
+    "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
+    "cits-3002/physical layer, error detection and correction.md",
+    "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
     "photos/Screenshot 2023-04-10 at 11.59.00 am.png",
     "cits-3002/kr 5.1-5.2.md",
-    "cits-3002/physical layer, error detection and correction.md",
-    "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
     "photos/Screenshot 2023-04-10 at 11.42.53 am.png",
     "photos/Screenshot 2023-04-08 at 10.21.50 pm.png",
-    "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
     "cits-3002/introduction to computer networks.md",
     "cits-3002/test study for networks .md",
     "cits-3002/tan 1.1 -> 1.4.md",
@@ -209,11 +188,8 @@
     "photos/Screenshot 2023-03-30 at 12.59.49 pm.png",
     "photos/Screenshot 2023-03-30 at 12.56.31 pm.png",
     "photos/Screenshot 2023-03-30 at 12.55.57 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.54.46 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.54.25 pm.png",
     "stat-1400/transforming.md",
     "stat-1400/expected value.md",
-    "stat-1400/sampling.md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

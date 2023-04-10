@@ -76,7 +76,7 @@
 	- a masure is holistic if its acquired by using a holistic aggreagte function 
 
 ## dimension table
-- eacho one corresponds to a real world object or concept 
+- each one corresponds to a real world object or concept 
 - examples
 	- customer
 	- product 

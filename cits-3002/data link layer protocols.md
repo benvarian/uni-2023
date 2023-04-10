@@ -18,8 +18,6 @@
 
 ![[benefits of network simulation]]
 
-![[cnet networking model]]
-
 ![[defining networks using topology files]]
 
 ![[a complete stopandwait data-link layer protocol]]

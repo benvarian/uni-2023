@@ -1,3 +1,7 @@
+## textbook readings
+![[tan 2.1-2.2, 3.1-3.2]]
+
+![[kr 5.1-5.2]]
 ## reponsibilities of the physical and data link layers 
 - unlike other adjacent layers, its not possible to simply replace an implementation of one layer with another 
 - Physical layer responsibilities 

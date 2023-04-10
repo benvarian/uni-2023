@@ -4,71 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "d660d8aab06befe2",
+        "id": "82b22d873f601c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "7c77088dad313591",
+            "id": "67be9e68df9dbb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stat-1400/Week 5.md",
+                "file": "cits-3002/physical layer, error detection and correction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0745d32c2509afb7",
+            "id": "e15923f551823e07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "stat-1400/Week 6.md",
-                "mode": "source",
-                "source": false
+                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png"
               }
             }
           },
           {
-            "id": "7c45f4ce70ababb5",
+            "id": "99a2f862d95d1f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stat-1400/continuous random variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b64c849dfea2c37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stat-1400/distributions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8cb7358b565800d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stat-1400/sampling the distribution.md",
+                "file": "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stat-1400/continuous random variables.md",
+                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stat-1400/continuous random variables.md",
+                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stat-1400/continuous random variables.md"
+                "file": "photos/Screenshot 2023-04-08 at 9.48.48 pm.png"
               }
             }
           }
@@ -205,6 +179,31 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    "photos/Screenshot 2023-04-10 at 11.59.00 am.png",
+    "cits-3002/kr 5.1-5.2.md",
+    "cits-3002/physical layer, error detection and correction.md",
+    "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
+    "photos/Screenshot 2023-04-10 at 11.42.53 am.png",
+    "photos/Screenshot 2023-04-08 at 10.21.50 pm.png",
+    "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
+    "cits-3002/introduction to computer networks.md",
+    "cits-3002/test study for networks .md",
+    "cits-3002/tan 1.1 -> 1.4.md",
+    "photos/Screenshot 2023-04-08 at 12.15.54 pm.png",
+    "introduction to computer networks.md",
+    "introduction to com.md",
+    "cits-3002/data link layer protocols.md",
+    "cits-3002/Local Area networks (LANS and WANs).md",
+    "cits-3401/star schema.md",
+    "cits-3401/snowflake schema.md",
+    "cits-3401/schema.md",
+    "stat-1400/week 3 .md",
+    "stat-1400/Week 6.md",
+    "stat-1400/Week 5.md",
+    "cits-3401/modelling of data warehouses and OLAP.md",
+    "stat-1400/continuous random variables.md",
+    "stat-1400/distributions.md",
+    "stat-1400/sampling the distribution.md",
     "stat-1400/calculus notation.md",
     "stat-1400/sum.md",
     "photos/Screenshot 2023-03-30 at 12.59.49 pm.png",
@@ -212,34 +211,9 @@
     "photos/Screenshot 2023-03-30 at 12.55.57 pm.png",
     "photos/Screenshot 2023-03-30 at 12.54.46 pm.png",
     "photos/Screenshot 2023-03-30 at 12.54.25 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.53.46 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.52.26 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.34.16 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.33.22 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.32.39 pm.png",
-    "stat-1400/distributions.md",
-    "stat-1400/sampling the distribution.md",
-    "stat-1400/Week 6.md",
     "stat-1400/transforming.md",
     "stat-1400/expected value.md",
     "stat-1400/sampling.md",
-    "stat-1400/Week 5.md",
-    "stat-1400/cumulative distribution function.md",
-    "stat-1400/continuous random variables.md",
-    "stat-1400/probability density.md",
-    "stat-1400/expectation.md",
-    "stat-1400/spread.md",
-    "stat-1400/random variable.md",
-    "stat-1400/looking ahead.md",
-    "stat-1400/discrete random variable.md",
-    "stat-1400/Frequentism.md",
-    "stat-1400/density.md",
-    "cits-3002/traffic shaping - leaky bucket algorithm.md",
-    "cits-3002/end-to-end flow control.md",
-    "stat-1400/linear regression.md",
-    "cits-3002/Network layer.md",
-    "cits-3002/a naive non-adaptive routing algorithm - flooding.md",
-    "cits-3002/traffic shaping - token bucket algorithm.md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

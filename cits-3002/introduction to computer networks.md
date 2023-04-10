@@ -1,3 +1,7 @@
+## textbook readings 
+![[kr txt book 1.1, 1.2,1.5]]
+
+![[tan 1.1 -> 1.4]]
 ## basic networking definitions 
 - a computer network is a interconnected collection of autonomous computers 
 - computers are considered interconnected if they are capable of exchanging microwaves 

@@ -33,7 +33,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "admin"
+      "cits-3002"
     ]
   },
   "expandedSpaces": [
@@ -67,7 +67,7 @@
   ],
   "inlineBacklinks": true,
   "inlineContext": true,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical"

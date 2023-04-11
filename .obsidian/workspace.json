@@ -16,8 +16,21 @@
                 "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png"
               }
             }
+          },
+          {
+            "id": "8fa0075418b9c34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3002/TAN 4.1-4.3.4, 4.4, 4.8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,21 +163,26 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    "cits-3002/TAN 4.1-4.3.4, 4.4, 4.8.md",
+    "Untitled.md",
+    "photos/Screenshot 2023-04-11 at 11.20.11 am.png",
+    "photos/Screenshot 2023-04-11 at 11.13.55 am.png",
+    "photos/Screenshot 2023-04-11 at 10.59.39 am.png",
+    "photos/Screenshot 2023-04-11 at 1.05.35 pm.png",
+    "photos/Screenshot 2023-04-11 at 1.00.47 pm.png",
+    "Screenshot 2023-04-11 at 1.05.35 pm.png",
+    "Screenshot 2023-04-11 at 1.00.47 pm.png",
+    "Screenshot 2023-04-11 at 11.20.11 am.png",
+    "Screenshot 2023-04-11 at 11.13.55 am.png",
+    "Screenshot 2023-04-11 at 10.59.39 am.png",
     ".md",
     "cits-3002/tan 3.3 -> 3.4.md",
-    "photos/Screenshot 2023-04-10 at 2.00.09 pm.png",
-    "photos/Screenshot 2023-04-10 at 1.18.31 pm.png",
     "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
     "cits-3002/physical layer, error detection and correction.md",
-    "photos/Screenshot 2023-04-08 at 9.48.48 pm.png",
-    "photos/Screenshot 2023-04-10 at 11.59.00 am.png",
     "cits-3002/kr 5.1-5.2.md",
-    "photos/Screenshot 2023-04-10 at 11.42.53 am.png",
-    "photos/Screenshot 2023-04-08 at 10.21.50 pm.png",
     "cits-3002/introduction to computer networks.md",
     "cits-3002/test study for networks .md",
     "cits-3002/tan 1.1 -> 1.4.md",
-    "photos/Screenshot 2023-04-08 at 12.15.54 pm.png",
     "introduction to computer networks.md",
     "introduction to com.md",
     "cits-3002/data link layer protocols.md",
@@ -185,11 +199,7 @@
     "stat-1400/sampling the distribution.md",
     "stat-1400/calculus notation.md",
     "stat-1400/sum.md",
-    "photos/Screenshot 2023-03-30 at 12.59.49 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.56.31 pm.png",
-    "photos/Screenshot 2023-03-30 at 12.55.57 pm.png",
     "stat-1400/transforming.md",
-    "stat-1400/expected value.md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

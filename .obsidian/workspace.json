@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d920b33508f4dc2",
+        "id": "07711776af1e51b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8aebea9bc2875225",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "photos/Screenshot 2023-04-10 at 1.18.31 pm.png"
-              }
-            }
-          },
-          {
-            "id": "8fa0075418b9c34c",
+            "id": "95c77144b3b9f2a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/TAN 4.1-4.3.4, 4.4, 4.8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74d63f2daf54c79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tan 5.1->5.4.2.md",
+                "file": "cits-3002/piggybacking .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "e3a7670408e5c34e",
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tan 5.1->5.4.2.md",
+                "file": "cits-3002/piggybacking .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tan 5.1->5.4.2.md",
+                "file": "cits-3002/piggybacking .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tan 5.1->5.4.2.md"
+                "file": "cits-3002/piggybacking .md"
               }
             }
           }
@@ -178,29 +154,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74d63f2daf54c79b",
+  "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "photos/Screenshot 2023-04-11 at 9.05.14 pm.png",
-    "photos/Screenshot 2023-04-11 at 4.54.36 pm.png",
-    "photos/Screenshot 2023-04-11 at 4.52.53 pm.png",
-    "photos/Screenshot 2023-04-11 at 4.07.04 pm.png",
-    "photos/Screenshot 2023-04-11 at 3.56.13 pm.png",
-    "photos/Screenshot 2023-04-11 at 3.39.07 pm.png",
-    "Screenshot 2023-04-11 at 9.05.14 pm.png",
-    "Screenshot 2023-04-11 at 4.54.36 pm.png",
-    "Screenshot 2023-04-11 at 4.52.53 pm.png",
-    "Screenshot 2023-04-11 at 4.07.04 pm.png",
-    "Screenshot 2023-04-11 at 3.56.13 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.23.09 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.23.01 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.22.52 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.20.21 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.16.17 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.12.30 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.09.59 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.06.19 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.04.05 pm.png",
+    "photos/Screenshot 2023-04-15 at 12.02.51 pm.png",
+    "photos/Screenshot 2023-04-15 at 11.59.45 am.png",
+    "cits-3002/pdntspa.md",
+    "stat-2401/simple linear regressions - week 2.md",
+    "cits-3002/piggybacking .md",
+    "cits-3002/tan 5.1->5.4.2.md",
+    "cits-3002/traffic shaping - token bucket algorithm.md",
     "cits-3002/TAN 4.1-4.3.4, 4.4, 4.8.md",
-    "tan 5.1->5.4.2.md",
-    ".md",
     "cits-3002/tan 3.3 -> 3.4.md",
     "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
-    "cits-3002/physical layer, error detection and correction.md",
+    "cits-3002/tan 1.1 -> 1.4.md",
+    "cits-3002/kr txt book 1.1, 1.2,1.5.md",
     "cits-3002/kr 5.1-5.2.md",
+    "cits-3002/go-back-n protocol.md",
+    ".md",
+    "cits-3002/physical layer, error detection and correction.md",
     "cits-3002/introduction to computer networks.md",
     "cits-3002/test study for networks .md",
-    "cits-3002/tan 1.1 -> 1.4.md",
     "introduction to computer networks.md",
     "introduction to com.md",
     "cits-3002/data link layer protocols.md",
@@ -211,12 +193,6 @@
     "stat-1400/week 3 .md",
     "stat-1400/Week 6.md",
     "stat-1400/Week 5.md",
-    "cits-3401/modelling of data warehouses and OLAP.md",
-    "stat-1400/continuous random variables.md",
-    "stat-1400/distributions.md",
-    "stat-1400/sampling the distribution.md",
-    "stat-1400/calculus notation.md",
-    "stat-1400/sum.md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

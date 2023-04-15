@@ -44,7 +44,7 @@
 	- using the services of the layer directly below it 
 - both physical and data link layers are responsible for handling communciation over a specific link, typically implemented in a NIC associated with a given link 
 - ![[Screenshot 2023-03-14 at 1.15.20 pm.png]]
-- five layer internet protocol stakc 
+- five layer internet protocol stack 
 	- application layer
 		- where network applications and their application layer protocols reside 
 		- includes HTTP, SMTP, FPT protocols 
@@ -74,12 +74,23 @@
 		- the responsibility is to move the individual bits within the frame from one node to the next 
 - the osi model 
 	- application layer
+		- where network applications and their application layer protocols reside 
+		- HTTP
+		- SMTP 
+		- FTP
 	- presentation layer 
 		- provide services that allow communcating applications to interpret the meaining of data exchanged 
 		- these services inlcude data compression and data encryption as well as data description 
 	- session layer
 		- provides for delimiting and synchronisation of data exchange, including means the measnt to build a checkpointing and recovery scheme 
 	- transport layer 
+		- transports application layer messages between application endpoints 
+		- in the internet there are two transport protocols TCP & UDP. 
+		- TPC provides a connection oriented service to its applications, includes guaranteed delivery of aplication layer messages, also breaks longer messages into shorted segmeents 
 	- network layer 
+		- responsible for moving network layer packets known as datagrams from one host to another 
+		- include the IP protocol 
 	- data link layer 
+		- routes a datagram through a series of routers between the soruce and destination 
 	- physical layer 
+		- move individual bits within the frame from one node to the next 

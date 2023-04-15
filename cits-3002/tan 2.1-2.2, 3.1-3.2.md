@@ -84,7 +84,7 @@
 ### 3.1.2 framing 
 - physical layer accepts a raw bit stream and attempts to deliver it to the desitnation 
 - if the channel is noisy, as it is for most wireless and some wired links, the physical layer will add some redundancy to its signals to reduce the bit error rate to a tolerable level 
-- it is up to the dat link layer to detect errors and if necessary, correct errors 
+- it is up to the data link layer to detect errors and if necessary, correct errors 
 - usual approach is for the data link layer to break up the bit stream into discrete frames, compute a short token called a checksum for each frame and include the checksum in the frame when it is transmitted 
 - when a frame arrives at the destination, the receiver recomputes the checksum based on the received frame
 - if the newly computed checksum if different from the one contained in the frame, the data link layer knows that an error has occured and takes steps to deal with it 

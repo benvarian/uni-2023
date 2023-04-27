@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "07711776af1e51b4",
+        "id": "ec11954e28cea944",
         "type": "tabs",
         "children": [
           {
-            "id": "95c77144b3b9f2a7",
+            "id": "5d99db98c8528044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "stat-2401/simple linear regressions - week 2 -> 5.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "cits-3401"
               }
             }
           },
           {
-            "id": "93a4d2e66df34ef3",
+            "id": "548a653138241c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stat-2401/multiple linear regression 5->7.md",
+                "file": "cits-3401/why data mart.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stat-2401/multiple linear regression 5->7.md",
+                "file": "cits-3401/why data mart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stat-2401/multiple linear regression 5->7.md",
+                "file": "cits-3401/why data mart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stat-2401/multiple linear regression 5->7.md"
+                "file": "cits-3401/why data mart.md"
               }
             }
           }
@@ -169,43 +167,42 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "photos/Screenshot 2023-04-15 at 2.35.23 pm.png",
-    "photos/Screenshot 2023-04-15 at 2.34.22 pm.png",
-    "photos/Screenshot 2023-04-15 at 2.34.07 pm.png",
-    "photos/Screenshot 2023-04-15 at 2.11.39 pm.png",
-    "photos/Screenshot 2023-04-15 at 2.11.29 pm.png",
-    "photos/Screenshot 2023-04-15 at 2.09.51 pm.png",
-    "photos/Screenshot 2023-04-15 at 2.05.10 pm.png",
-    "photos/Screenshot 2023-04-15 at 1.51.59 pm.png",
-    "photos/Screenshot 2023-04-15 at 1.51.38 pm.png",
-    "photos/Screenshot 2023-04-15 at 1.30.36 pm.png",
-    "photos/Screenshot 2023-04-15 at 1.28.05 pm.png",
-    "stat-2401/simple linear regressions - week 2 -> 5.md",
-    "stat-2401/multiple linear regression 5->7.md",
-    "cits-3002/piggybacking .md",
-    "cits-3002/pdntspa.md",
-    "cits-3002/tan 5.1->5.4.2.md",
-    "cits-3002/traffic shaping - token bucket algorithm.md",
-    "cits-3002/TAN 4.1-4.3.4, 4.4, 4.8.md",
-    "cits-3002/tan 3.3 -> 3.4.md",
-    "cits-3002/tan 2.1-2.2, 3.1-3.2.md",
-    "cits-3002/tan 1.1 -> 1.4.md",
-    "cits-3002/kr txt book 1.1, 1.2,1.5.md",
-    "cits-3002/kr 5.1-5.2.md",
-    "cits-3002/go-back-n protocol.md",
-    ".md",
-    "cits-3002/physical layer, error detection and correction.md",
-    "cits-3002/introduction to computer networks.md",
-    "cits-3002/test study for networks .md",
-    "introduction to computer networks.md",
-    "introduction to com.md",
-    "cits-3002/data link layer protocols.md",
-    "cits-3002/Local Area networks (LANS and WANs).md",
-    "cits-3401/star schema.md",
-    "cits-3401/snowflake schema.md",
-    "cits-3401/schema.md",
-    "stat-1400/week 3 .md",
+    "week 7.md",
+    "cits-3401/data lake or data warehouse.md",
+    "cits-3401/Meta Data Mart.md",
+    "cits-3401/advantages & disadvantages of a data mart.md",
+    "cits-3401/use cases of data marts & data warehouses.md",
+    "photos/Screenshot 2023-04-27 at 7.44.02 pm.png",
+    "photos/Screenshot 2023-04-27 at 7.43.56 pm.png",
+    "photos/Screenshot 2023-04-27 at 10.39.43 am.png",
+    "photos/Screenshot 2023-04-27 at 10.39.36 am.png",
+    "photos/Screenshot 2023-04-27 at 10.39.20 am.png",
+    "photos/Screenshot 2023-04-27 at 10.37.00 am.png",
+    "photos/Screenshot 2023-04-26 at 9.50.32 pm.png",
+    "photos/Screenshot 2023-04-26 at 4.50.30 pm.png",
+    "photos/Screenshot 2023-04-26 at 4.31.08 pm.png",
+    "Screenshot 2023-04-27 at 7.44.02 pm.png",
+    "cits-3401/steps of implementing a data mart.md",
+    "cits-3401/types of data mart.md",
+    "cits-3401/dependent vs independent.md",
+    "cits-3401/characteristics of a data mart.md",
+    "cits-3401/why data mart.md",
+    "cits-3401/what is a data mart.md",
+    "cits-3401/when to consider a data mart.md",
+    "cits-3401/what is a data lake?.md",
+    "cits-3401/challenges for metadata management.md",
+    "cits-3401/DW architecture and metadata.md",
+    "cits-3401/roles of metadata.md",
+    "cits-3401/application of metadata in DW.md",
+    "cits-3401/metadata repository and category.md",
+    "cits-3401/metadata in data warehousing.md",
+    "cits-3401/metadata.md",
+    "stat-1400/looking ahead.md",
+    "stat-1400/expected value.md",
     "stat-1400/Week 6.md",
+    "stat-1400/Week 5.md",
+    "stat-2401/multiple linear regression 5->7.md",
+    ".md",
     "Untitled.canvas",
     "admin",
     "context.mdb",

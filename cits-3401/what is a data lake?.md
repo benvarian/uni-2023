@@ -1,0 +1,5 @@
+- a data lake is a storage platform for 
+	- semi-structured, unstructured, and binary data at any scale 
+	- specific purpose of supporting the execution of analytics workloads 
+- data is stored in a raw format in a data lake, with no indexing or prepping required 
+- allows the flexibility to perform many types of analytics 

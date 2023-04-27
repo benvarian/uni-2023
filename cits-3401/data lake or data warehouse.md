@@ -1,0 +1,3 @@
+- data lake is a complement to data warehouse 
+- data lake allow orgs to stage swathes of unstructured, semi-structured data from multiple sources that they can then route to multiple purpose data warehouses 
+- **data lakes, together with data warehouse facilitates seamless data staging and storage between sources and destinations **

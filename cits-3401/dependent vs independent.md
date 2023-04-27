@@ -1,0 +1,14 @@
+- idependent
+	- pro
+		- easier and faster to implement
+		- flexible 
+	- cons
+		- It is easy to form an information island (because it disengages from the data warehouse, when multiple independent data marts grow to a certain scale, enterprises will only add some information islands because there is no centralised data warehouse coordination.)
+		- not a true solution and can become very costly over time as more and more are added 
+- dependent 
+	- pros 
+		- no historical limit to the data 
+		- improve data analysis quality 
+		- data integrity is ensured
+	- cons 
+		- takes longer and more expensive to implement

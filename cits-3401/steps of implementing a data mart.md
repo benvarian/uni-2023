@@ -1,0 +1,17 @@
+
+- designing 
+	- gathering the business & technical requirements and identifying data sources 
+	- designing the logical and physical structure of the data mart 
+- constructing 
+	- implementing the physical database designed in the earlier phase
+- populating 
+	- source data to target data mapping 
+	- extraction of source data 
+	- cleaning and transformation operations on the data 
+	- loading data into the data mart 
+- accessing 
+	- querying data, creating reports, charts 
+	- set up and maintain database structures 
+- managing 
+	- ongoing user access management 
+	- optimisations and fine-tuning to achieve enhanced performance  

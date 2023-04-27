@@ -1,0 +1,7 @@
+- features a CRUD interface
+- built for use with OLTP (online transactional processing) systems
+- have two key properties 
+	- underlying storage 
+	- processing engine 
+		- enable global graph computational algorithms to be run against large datasets 
+		- optimised for processing information in batches

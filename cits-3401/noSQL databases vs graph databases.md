@@ -1,0 +1,5 @@
+- NoSQL 
+	- store data as sets of disconnected documents, values or column
+	- a common strategy is to basically use embed an objects id, basically foreign keys
+	- doesnt caputre backwards relationships 
+	- aggregate stores do not maintain consistency of connected data 

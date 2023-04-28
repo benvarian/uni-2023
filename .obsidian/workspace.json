@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4361c11a82c7f2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3401/Lecture 8 - graph DBs and graph data modelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb33d06ec5850120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3401/graph databases vs relational and NoSql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d37e6afca0059fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3401/summary - relational db vs graph db.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "267d36cd1b0d489b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3401/noSQL databases vs graph databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e9c859cfa7cdba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cits-3401/graph databases vs relational and NoSql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cits-3401/graph database management systems.md",
+                "file": "cits-3401/graph databases vs relational and NoSql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cits-3401/graph database management systems.md",
+                "file": "cits-3401/graph databases vs relational and NoSql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cits-3401/graph database management systems.md"
+                "file": "cits-3401/graph databases vs relational and NoSql.md"
               }
             }
           }
@@ -154,30 +215,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37daedf59837240",
+  "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    "cits-3401/Lecture 8 - graph DBs and graph data modelling.md",
+    "cits-3401/neo4j etl tools rules.md",
+    "photos/Screenshot 2023-04-28 at 10.30.15 am.png",
+    "photos/Screenshot 2023-04-28 at 10.28.22 am.png",
+    "photos/Screenshot 2023-04-28 at 10.27.57 am.png",
+    "photos/Screenshot 2023-04-28 at 10.19.15 am.png",
+    "Screenshot 2023-04-28 at 10.30.15 am.png",
+    "Screenshot 2023-04-28 at 10.28.22 am.png",
+    "Screenshot 2023-04-28 at 10.27.57 am.png",
+    "cits-3401/summary - relational db vs graph db.md",
+    "cits-3401/noSQL databases vs graph databases.md",
+    "Screenshot 2023-04-28 at 10.19.15 am.png",
+    "cits-3401/graph databases vs relational and NoSql.md",
+    "cits-3401/graph database management systems.md",
     "photos/Screenshot 2023-04-27 at 8.03.34 pm.png",
     "photos/Screenshot 2023-04-27 at 8.02.28 pm.png",
-    "photos/Screenshot 2023-04-27 at 8.01.14 pm.png",
     "cits-3401/property graph model.md",
     "cits-3401/relationships.md",
     "cits-3401/why graph databases.md",
     "cits-3401/lecture 7 - intro to graph and graph databases.md",
-    "Screenshot 2023-04-27 at 8.03.34 pm.png",
-    "Screenshot 2023-04-27 at 8.02.28 pm.png",
-    "Screenshot 2023-04-27 at 8.01.14 pm.png",
-    "cits-3401/graph database management systems.md",
     "cits-3401/why data mart.md",
     "week 7.md",
     "cits-3401/data lake or data warehouse.md",
     "cits-3401/Meta Data Mart.md",
     "cits-3401/advantages & disadvantages of a data mart.md",
     "cits-3401/use cases of data marts & data warehouses.md",
-    "photos/Screenshot 2023-04-27 at 7.44.02 pm.png",
-    "photos/Screenshot 2023-04-27 at 7.43.56 pm.png",
-    "photos/Screenshot 2023-04-27 at 10.39.43 am.png",
-    "photos/Screenshot 2023-04-27 at 10.39.36 am.png",
-    "photos/Screenshot 2023-04-27 at 10.39.20 am.png",
     "cits-3401/steps of implementing a data mart.md",
     "cits-3401/types of data mart.md",
     "cits-3401/dependent vs independent.md",
@@ -187,11 +252,6 @@
     "cits-3401/what is a data lake?.md",
     "cits-3401/challenges for metadata management.md",
     "cits-3401/DW architecture and metadata.md",
-    "cits-3401/roles of metadata.md",
-    "cits-3401/application of metadata in DW.md",
-    "cits-3401/metadata repository and category.md",
-    "cits-3401/metadata in data warehousing.md",
-    "cits-3401/metadata.md",
     ".md",
     "Untitled.canvas",
     "admin",

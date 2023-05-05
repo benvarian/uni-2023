@@ -1,0 +1,7 @@
+- represented in ASCII. 
+- nodes are surrounded by round brackets 
+- a node 
+	- (Label { property: value })
+- example 
+	- (Person { name: "michael"})
+	- (person {name: "steve", hair_color: "brown"})

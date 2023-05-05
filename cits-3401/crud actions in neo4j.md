@@ -1,0 +1,12 @@
+- Create
+	- creating new data using create and or merge clauses 
+	- improting an existing CSV-based dataset using LOAD CSV
+	- ![[Screenshot 2023-04-30 at 11.39.10 am.png]]
+		- this creates new nodes and relationships 
+	- can create relationships between existing nodes, need to use a match clause first tho
+		- ![[Screenshot 2023-04-30 at 11.41.17 am.png]]
+	- using merge 
+		- checks whether the specified pattern already exists. If they do, they are matched, if they dont they are created 
+		- a combination of match and create 
+		- allows us to avoid duplicating data 
+			- ![[Screenshot 2023-04-30 at 11.42.31 am.png]]

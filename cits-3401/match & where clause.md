@@ -1,0 +1,11 @@
+
+- heart of most cypher queries 
+- ![[Screenshot 2023-04-30 at 11.46.33 am.png]]
+	- we are looking for a node labelled person, with a name property whose value is "Jim", who is connected to another node (a) labelled person via the relation label KNOWNS
+	- the return clause specifies which nodes, relationship and properties in the matched data should be returned 
+	- similar to the select clause of sql 
+- ![[Screenshot 2023-04-30 at 11.48.39 am.png]]
+- ![[Screenshot 2023-04-30 at 11.48.50 am.png]]
+	- using where adds constraints to the patterns described 
+	- ![[Screenshot 2023-04-30 at 11.49.31 am.png]]
+	- can also be used with string matching commands, STARS WITH, ENDS WITH, CONTAINS

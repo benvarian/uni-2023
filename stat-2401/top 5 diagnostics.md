@@ -1,0 +1,64 @@
+
+- 1. non-linearty of the data
+	- regression model assumes that there is a straight line relationship between the predictors and the response 
+	- if the true relationship is far from linear, then virtually all of the conclusions that we draw from the fit are suspect 
+	- residual plots are useful for identifying non-linearity 
+	- ei = yi - y(hat)i, where residual is - actual value on the line 
+	- ![[Screenshot 2023-05-10 at 11.31.20 am.png]]
+	- if the residual plot indicates that there are no non-linear associations in the data, then a simple approach is to use non-linear transformations of the predictors, such as log(X), sqrt(X), X^2
+- 2. correlation of error terms 
+	- import assumption of the linear regression model is that the error terms, are uncorrelated 
+	- if in fact there is correlation among the error terms, then the estimated standard errors will tent to underestimate the true standard errors 
+	- as a result, confidence and prediction intervals will be narrower than they should be. ex: a 95% confidence interval may in reality have a much lower probability than 0.95 of containing the true value of the parameter 
+	- in addition, the p-values assocatied with the model, will be lower than they should be. This could cause us to conclude that a paramter is statistically significant 
+- 3. non-constant variance of error terms 
+	- another important assumption of the linear regression model is that the error terms have a constant variance Var(ei)= standard deviation
+	- use log or sqrt to fix data skewness 
+- 4. outliers 
+	- outlier is a point for which yi, is far from the value predicted by the model 
+	- arise for a variety of reasons, such as incorrect recording of an observation during data collection 
+	- plot the standardies resiudals, computed by dividing each residual by its estimated standard error. Then, when a stand resid is greater than 2 in absolute vlaue are the corrleated to been a possible outlier 
+- 5. high leverage points 
+	- observations with high leverage have an unusual value for xi.
+	- ![[Screenshot 2023-05-10 at 11.46.55 am.png]]
+		- red line with 41 in, blue without 
+		- can see that removing 41 has a much more substantial impact on the least squares line than removing the outlier 
+		- cause for concern if the least squares line is heavily affected by just a couple of observations, because any problems with these points may invalidate the entire fit 
+	- fairly easy to find, can simply look for observations for which the predictor value is outsdie of the normal range for observations 
+	- in order to quantify the observations leverage, we compute the leverage statistics hi. 
+		- a large value indicates an observation with high leverage 
+		- ![[Screenshot 2023-05-10 at 11.50.08 am.png]]
+		- use hatvalues to obatain thise statistic 
+			- ![[Screenshot 2023-05-10 at 11.53.49 am.png]]
+		- if the leverage stat greatly exceeds 2 x (p + 1 / n)
+	- cooks distance 
+		- combining leverage & standardised residual info
+			- ![[Screenshot 2023-05-10 at 11.56.46 am.png]]
+			- cooks distance is large if a point has a large standardised resiudal, a large leverage or both 
+			- if Di > 1, the point is considered to have undue influence 
+			- ![[Screenshot 2023-05-10 at 11.57.57 am.png]]
+- 6. collinearity 
+	- two or more predictor variables collinearity are closely related to one another 
+	- ![[Screenshot 2023-05-10 at 11.59.15 am.png]]
+		- in the left panel, the two predictors limit and age appear to have no obvious relationship 
+		- the right hand panel, are obviously very highly correlated with each other, and we say that they are collinear 
+	- ![[Screenshot 2023-05-10 at 12.01.27 pm.png]]
+		- left hand panel is a contour plot of the RSS associated with differnet possible coefficicent estimates for the regression of balance on limit and age 
+		- for example, we see that the true limit coefficicent is almost certainly somewhere between 0.15 and 0.2
+		- whereas the right panel, shows balance on limit and rating, which we already know to be highly collinear 
+		- the contours run along a narrow valley, there is a broad range of values for the coefficient estimates that result in equal values for RSS. Hence a small change in the data could cause the pair of coefficient valaues that yield the smallest RSS, that means the least squares estimates to move anywhere along this valley 
+	- ![[Screenshot 2023-05-10 at 12.05.28 pm.png]]
+		- in the first model, both age and limit are highly significat with very small p-values 
+		- in the second, the collinearity between limit and rating has caused the standard error for the limit coefficient estimate to increase by a factor of 12, and the p-values increases to 0.7012
+	- simple way to detect collinearity is to look at the correlation matrix of the predictors 
+		- an element of this matrix that is large in absolute value indicates a pair of highly correlated variables, and therefore a collinearity problem in the data 
+		- unfortunately, not all collinearity problems can be detected by inspection of the correlation matrix. meaning it is possible for collinearity to exist between three or more variables even if no pair of variables has a particularly high correlation 
+			- this is called multicollinearity 
+			- instead of inspecting the correlation matrix, you compute the variance inflation factor (VIF).
+			- the VIF is the ratio of the variance of hatBj when fitting the full model diviided by the variance of hatBj
+			- smallest value is 1 which indicates the complete absence of collinearity 
+			- rule of thumb, VIF that > 5 or 10 indicates a problematic amount of collinearity 
+			- ![[Screenshot 2023-05-10 at 12.12.55 pm.png]]
+			- ![[Screenshot 2023-05-10 at 12.13.53 pm.png]]
+- normality 
+	- 

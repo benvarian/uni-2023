@@ -1,0 +1,71 @@
+
+- Akaike information criterion (AIC)
+	- defined for large class of models fit by maximum likelihood
+	- tend  to take on a small value for a model with a low test error 
+	- ![[Screenshot 2023-05-10 at 1.10.48 pm.png]]
+- bayesian information criterion 
+	- take on a small value for a model with a low test error, and so generally we select the model that has the lowest BIC value 
+	- bic replaces the 2(d+1) used by AIC with a (d+1)log(n)
+	- ![[Screenshot 2023-05-10 at 1.14.18 pm.png]]
+- adjusted $R^2$ 
+	- since rss always decreases as more variables are added to the model, he r2 always incraeses as more variables are added 
+	- ![[Screenshot 2023-05-10 at 1.15.27 pm.png]]
+	- a large value of adjusted $R^2$ indicates a model with a small test error. 
+	- maximising the adjustied $R^2$ is equivalent to minimising RSS/(n-d-1)
+	- ![[Screenshot 2023-05-10 at 1.17.21 pm.png]]
+
+
+## best subset selection 
+- fit a separate least sequares regression best subset for each possible combination of the p predictors 
+- ![[Screenshot 2023-05-10 at 1.18.51 pm.png]]
+- a low AIC, low BIC, or a high $R^2$ indicates a model with a low training error, whereas we wish to choose a modal that has a low test error 
+- example of steps 
+	- ![[Screenshot 2023-05-10 at 1.24.40 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.24.47 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.25.11 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.25.26 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.25.58 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.26.14 pm.png]]
+
+## forward/backward selection 
+- best cannot be applied to sets with a very large p
+- the larger the search space, the higher the chance of finding models that look good on the training data, even though they might not have any predictive power on future data
+- forward selection beginds with a model containing no predictors, and then adds predictors to the model, one at a time, until all of the predictors are in the model.
+	- ![[Screenshot 2023-05-10 at 1.30.12 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.32.25 pm.png]]
+	- the best fitted model for the data is hten
+		- $\widehat{sales}$ = 2.9211 + 0.0458TV + 0.1880radio
+- backward selection example 
+	- ![[Screenshot 2023-05-10 at 1.34.36 pm.png]]
+	- ![[Screenshot 2023-05-10 at 1.35.38 pm.png]]
+- backward selection using p-value/f-statistic 
+	- start with a full model with all predictors entered 
+	- identify the variable with the highest p-value above 0.05 amd remove 
+	- refit the model without the variable removed in step 2 
+	- repeat 2-3 until no other variables can be removed (all have p less than 0.05)
+	- stop
+		- example 
+			- using cheese data 
+			- start with full model using lm
+			- ![[Screenshot 2023-05-10 at 1.38.20 pm.png]]
+			- r tells us that both H2S and lactic should not be dropped, since the models without these terms have a considerably worse fit than the full model 
+			- deletion of acetic from the model makes little difference in terms of model fit 
+			- **if there had been more than one variable with p-value of greater than 0.05, then we would have remoed the variable with largest corresponding p-value** 
+			- ![[Screenshot 2023-05-10 at 1.40.30 pm.png]]
+			- ![[Screenshot 2023-05-10 at 1.41.03 pm.png]]
+			- the output tells us that it isnt reccommended to remove either of the variables H2S and Lactic as there would be an important loss of fit 
+			- $\widehat{taste}$ = -27.59 + 3.65H2S + 19.89Lactic
+- forward selection using p-value/f-statistic 
+	- start with the intercept only model 
+	- indentify the variable not in the current model with the lowest p-value below 0.05 and add
+	- refit the model including the variable added in step 2
+	- repeat 2-3 until no other variables can be added 
+	- stop
+		- example 
+			- ![[Screenshot 2023-05-10 at 1.45.09 pm.png]]
+			- ![[Screenshot 2023-05-10 at 1.46.27 pm.png]]
+			- r tells us that H2S should be added since it has the smallest p-values less than 0.05 among others 
+			- ![[Screenshot 2023-05-10 at 1.47.17 pm.png]]
+			- ![[Screenshot 2023-05-10 at 1.47.26 pm.png]]
+			- ![[Screenshot 2023-05-10 at 1.47.45 pm.png]]
+			- ![[Screenshot 2023-05-10 at 1.48.07 pm.png]]

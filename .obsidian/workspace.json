@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "89acbaf5b926b42b",
+        "id": "037c29d56852027e",
         "type": "tabs",
         "children": [
           {
-            "id": "4eddf80539cbeb87",
+            "id": "38cc41cf53dc0b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6b336f1fc75aa57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/lecture 10 - advanced cypher and apoc .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6b1b5447f2596b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/awesone procedures on cypher (apoc).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0456e237fb9e2088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/lecture 10 - advanced cypher and apoc .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f8034591a0454c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/virtual nodes & relationships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "463c651caa3b8709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/path expansion in cypher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2637a624cf86a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/awesone procedures on cypher (apoc).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3e826ff0b0bfb19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cits-3401/loading csv's.md",
+                "file": "cits-3401/Lecture 11 - neo4j graph data science .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cits-3401/lecture 10 - advanced cypher and apoc .md",
+                "file": "cits-3401/Lecture 11 - neo4j graph data science .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cits-3401/lecture 10 - advanced cypher and apoc .md",
+                "file": "cits-3401/Lecture 11 - neo4j graph data science .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cits-3401/lecture 10 - advanced cypher and apoc .md"
+                "file": "cits-3401/Lecture 11 - neo4j graph data science .md"
               }
             }
           }
@@ -249,41 +164,41 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    "cits-3401/depth first search.md",
+    "cits-3401/A* shortest path.md",
+    "cits-3401/Lecture 11 - neo4j graph data science .md",
+    "cits-3401/random walk.md",
+    "cits-3401/minimum spanning tree.md",
+    "cits-3401/all pairs shortest path.md",
+    "cits-3401/Yen's k-shortest path.md",
+    "cits-3401/dijkstra single-source shortest path.md",
+    "cits-3401/dijkstra souce-target shortest path.md",
+    "cits-3401/eurelian and hamtiltonian cycles.md",
+    "cits-3401/graph search algorithms.md",
+    "cits-3401/breadth first search.md",
+    "cits-3401/projecting the graph.md",
+    "cits-3401/algorithm traits.md",
+    "photos/Screenshot 2023-05-31 at 12.58.09 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.56.58 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.56.42 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.56.18 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.51.43 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.50.30 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.48.15 pm.png",
+    "photos/Screenshot 2023-05-31 at 12.44.06 pm.png",
+    "photos/Screenshot 2023-05-31 at 1.23.32 pm.png",
+    "photos/Screenshot 2023-05-31 at 1.23.17 pm.png",
+    "cits-3401/shortest path algorithms.md",
     "issues.md",
-    "cits-3401/collapsing nodes.md",
-    "cits-3401/awesone procedures on cypher (apoc).md",
-    "photos/Screenshot 2023-05-31 at 12.38.40 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.37.45 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.36.01 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.30.58 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.30.51 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.20.59 pm.png",
-    "Screenshot 2023-05-31 at 12.38.40 pm.png",
     "cits-3401/lecture 10 - advanced cypher and apoc .md",
+    "cits-3401/awesone procedures on cypher (apoc).md",
     "cits-3401/virtual nodes & relationships.md",
-    "Screenshot 2023-05-31 at 12.37.45 pm.png",
     "cits-3401/path expansion in cypher.md",
-    "Screenshot 2023-05-31 at 12.36.01 pm.png",
-    "Screenshot 2023-05-31 at 12.30.58 pm.png",
     "cits-3401/loading csv's.md",
+    "cits-3401/collapsing nodes.md",
     "stat-2401/test revision .md",
     "stat-2401/multiple linear regression 5->7.md",
     "cits-3401/Lecture 9 - graph queries - introduction to cypher, creating data, reading updating & deleting.md",
-    "cits-3401/Lecture 8 - graph DBs and graph data modelling.md",
-    "cits-3401/noSQL databases vs graph databases.md",
-    "cits-3401/summary - relational db vs graph db.md",
-    "cits-3401/neo4j etl tools rules.md",
-    "cits-3401/deleting data via DELETE.md",
-    "cits-3401/using detach delete.md",
-    "cits-3401/removing properties via REMOVE.md",
-    "cits-3401/updating data via SET.md",
-    "cits-3401/importing data via LOAD CSV.md",
-    "cits-3401/crud actions in neo4j.md",
-    "cits-3401/cypher clauses.md",
-    "cits-3401/connecting them together.md",
-    "cits-3401/representing relationships in cypher.md",
-    "cits-3401/match & where clause.md",
-    "admin/progress kanban.md",
     ".md",
     "Untitled.canvas",
     "admin",

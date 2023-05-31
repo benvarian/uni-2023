@@ -1,0 +1,3 @@
+- calculates the shortest path between a given source node and all other nodes in the graph 
+- rather than terminating once the target node has been found, it terminates once all nodes reachable by the source node have been discovered 
+- ![[Screenshot 2023-05-31 at 12.58.09 pm.png]]

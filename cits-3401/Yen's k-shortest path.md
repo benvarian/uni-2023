@@ -1,0 +1,5 @@
+- similar to dijkstra's source target shortest path algorithm, but in addition to finding the shortest path between two nodes, it also calculates teh second shortest, third shortest 
+- useful for geting alternative paths
+- steps
+	- first calculating the root path
+	- then calculating the spur path, ie (the shortest path from the starting node to the next-to-last node in the previous shortest path) and repeating k times 

@@ -1,0 +1,3 @@
+- starts from a chosen node and explores all of its neighbours at one hop away before visiting all neighbours two hops away and so on
+- used for shortest path etc
+- ![[Screenshot 2023-05-31 at 12.48.15 pm.png]]

@@ -1,0 +1,3 @@
+- similar to bfs but instead of exploring neighbours first, it walks down each branch first 
+- starting from a chosen node, it picks one of its neighbours, then traverses as far as it can along that path before backtracking 
+- ![[Screenshot 2023-05-31 at 12.50.30 pm.png]]

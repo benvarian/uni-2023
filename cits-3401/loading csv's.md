@@ -1,0 +1,11 @@
+- apoc.load.csv
+	- line numbers 
+	- map representation 
+	- automatic data conversion 
+	- replacing certain values with null
+- apoc.import.csv
+	- ![[Screenshot 2023-05-31 at 12.20.59 pm.png]]
+
+- dynamic relationships 
+	- using apoc.create.relationship 
+		- (node1, "RELATIONSHIP", {}, node2) yield rel return rel 

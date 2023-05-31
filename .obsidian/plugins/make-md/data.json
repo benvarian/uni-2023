@@ -32,9 +32,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": [
-      "stat-2401"
-    ]
+    "/": []
   },
   "expandedSpaces": [
     null,

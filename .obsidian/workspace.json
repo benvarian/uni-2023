@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cc37d209e7b4b7dd",
+        "id": "89acbaf5b926b42b",
         "type": "tabs",
         "children": [
           {
-            "id": "854ae7ff29d110c1",
+            "id": "4eddf80539cbeb87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "issues.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "issues.md"
+              }
             }
           }
         ]
@@ -154,43 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "854ae7ff29d110c1",
+  "active": "4eddf80539cbeb87",
   "lastOpenFiles": [
+    "stat-2401/test revision .md",
+    "photos/Screenshot 2023-05-12 at 2.51.29 pm.png",
+    "photos/Screenshot 2023-05-12 at 2.50.05 pm.png",
+    "photos/Screenshot 2023-05-12 at 2.29.33 pm.png",
+    "photos/Screenshot 2023-05-12 at 2.28.40 pm.png",
+    "photos/Screenshot 2023-05-12 at 2.25.51 pm.png",
+    "photos/Screenshot 2023-05-12 at 2.24.07 pm.png",
+    "photos/Screenshot 2023-05-12 at 12.44.56 pm.png",
+    "photos/Screenshot 2023-05-12 at 12.44.44 pm.png",
+    "photos/Screenshot 2023-05-12 at 12.42.48 pm.png",
+    "photos/Screenshot 2023-05-12 at 12.42.22 pm.png",
+    "stat-2401/multiple linear regression 5->7.md",
+    "cits-3401/Lecture 9 - graph queries - introduction to cypher, creating data, reading updating & deleting.md",
+    "cits-3401/Lecture 8 - graph DBs and graph data modelling.md",
+    "cits-3401/noSQL databases vs graph databases.md",
+    "cits-3401/summary - relational db vs graph db.md",
+    "cits-3401/neo4j etl tools rules.md",
+    "cits-3401/deleting data via DELETE.md",
+    "cits-3401/using detach delete.md",
+    "cits-3401/removing properties via REMOVE.md",
+    "cits-3401/updating data via SET.md",
+    "cits-3401/importing data via LOAD CSV.md",
+    "cits-3401/crud actions in neo4j.md",
+    "cits-3401/cypher clauses.md",
+    "cits-3401/connecting them together.md",
+    "cits-3401/representing relationships in cypher.md",
+    "cits-3401/match & where clause.md",
+    "admin/progress kanban.md",
+    "issues.md",
     "stat-2401/top 5 diagnostics.md",
     "stat-2401/week 10->12.md",
     "stat-2401/topic 6 modal selection.md",
-    "photos/Screenshot 2023-05-10 at 12.13.53 pm.png",
-    "photos/Screenshot 2023-05-10 at 12.12.55 pm.png",
-    "photos/Screenshot 2023-05-10 at 12.05.28 pm.png",
-    "photos/Screenshot 2023-05-10 at 12.01.27 pm.png",
-    "photos/Screenshot 2023-05-10 at 11.59.15 am.png",
-    "photos/Screenshot 2023-05-10 at 11.57.57 am.png",
-    "photos/Screenshot 2023-05-10 at 11.56.46 am.png",
-    "photos/Screenshot 2023-05-10 at 11.53.49 am.png",
-    "photos/Screenshot 2023-05-10 at 11.50.08 am.png",
-    "photos/Screenshot 2023-05-10 at 11.46.55 am.png",
     "stat-2401/lectuer 8->9  qualitative predictors .md",
-    "issues.md",
-    "cits-3401/Lecture 8 - graph DBs and graph data modelling.md",
     "cits-3401/lecture 7 - intro to graph and graph databases.md",
     "cits-3002/TAN 1.4, 1.5.1, 5.6.1-2 & KR 1.1,1.7,4.4.1-3.md",
-    "cits-3002/test study for networks .md",
-    "cits-3401/Lecture 9 - graph queries - introduction to cypher, creating data, reading updating & deleting.md",
-    "cits-3401/using detach delete.md",
-    "cits-3401/deleting data via DELETE.md",
-    "cits-3401/removing properties via REMOVE.md",
-    "cits-3401/crud actions in neo4j.md",
-    "cits-3401/updating data via SET.md",
-    "cits-3401/with clause.md",
-    "cits-3401/match & where clause.md",
-    "cits-3401/importing data via LOAD CSV.md",
-    "cits-3401/cypher clauses.md",
-    "cits-3401/representing relationships in cypher.md",
-    "cits-3401/connecting them together.md",
-    "cits-3401/representing nodes in cypher.md",
-    "cits-3401/graph databases vs relational and NoSql.md",
-    "cits-3401/noSQL databases vs graph databases.md",
-    "cits-3401/summary - relational db vs graph db.md",
     ".md",
     "Untitled.canvas",
     "admin",

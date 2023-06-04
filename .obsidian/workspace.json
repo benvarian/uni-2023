@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "037c29d56852027e",
+        "id": "145538d18f5a8936",
         "type": "tabs",
         "children": [
           {
-            "id": "38cc41cf53dc0b87",
+            "id": "5185c1571acf747d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bc634449db27ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3401/Lecture 11 - neo4j graph data science .md",
+                "file": "cits-3002/Networks Exam study .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cits-3401/Lecture 11 - neo4j graph data science .md",
+                "file": "cits-3002/Networks Exam study .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cits-3401/Lecture 11 - neo4j graph data science .md",
+                "file": "cits-3002/Networks Exam study .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cits-3401/Lecture 11 - neo4j graph data science .md"
+                "file": "cits-3002/Networks Exam study .md"
               }
             }
           }
@@ -164,9 +173,23 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
+    "photos/Screenshot 2023-06-04 at 12.04.35 pm.png",
+    "photos/Screenshot 2023-06-04 at 11.56.30 am.png",
+    "photos/Screenshot 2023-06-04 at 11.40.48 am.png",
+    "photos/Screenshot 2023-06-04 at 11.34.48 am.png",
+    "photos/Screenshot 2023-06-04 at 11.34.12 am.png",
+    "photos/Screenshot 2023-06-04 at 11.30.02 am.png",
+    "photos/Screenshot 2023-06-03 at 2.57.47 pm.png",
+    "photos/Screenshot 2023-06-03 at 2.01.21 pm.png",
+    "photos/Screenshot 2023-06-03 at 12.43.34 pm.png",
+    "photos/Screenshot 2023-06-03 at 12.16.14 pm.png",
+    "photos/Screenshot 2023-06-03 at 12.07.21 pm.png",
+    "cits-3002/Networks Exam study .md",
+    "cits-3401/Lecture 11 - neo4j graph data science .md",
+    "cits-3401/Exam structure .md",
+    "cits-3401/Exam study .md",
     "cits-3401/depth first search.md",
     "cits-3401/A* shortest path.md",
-    "cits-3401/Lecture 11 - neo4j graph data science .md",
     "cits-3401/random walk.md",
     "cits-3401/minimum spanning tree.md",
     "cits-3401/all pairs shortest path.md",
@@ -178,16 +201,6 @@
     "cits-3401/breadth first search.md",
     "cits-3401/projecting the graph.md",
     "cits-3401/algorithm traits.md",
-    "photos/Screenshot 2023-05-31 at 12.58.09 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.56.58 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.56.42 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.56.18 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.51.43 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.50.30 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.48.15 pm.png",
-    "photos/Screenshot 2023-05-31 at 12.44.06 pm.png",
-    "photos/Screenshot 2023-05-31 at 1.23.32 pm.png",
-    "photos/Screenshot 2023-05-31 at 1.23.17 pm.png",
     "cits-3401/shortest path algorithms.md",
     "issues.md",
     "cits-3401/lecture 10 - advanced cypher and apoc .md",
@@ -196,9 +209,6 @@
     "cits-3401/path expansion in cypher.md",
     "cits-3401/loading csv's.md",
     "cits-3401/collapsing nodes.md",
-    "stat-2401/test revision .md",
-    "stat-2401/multiple linear regression 5->7.md",
-    "cits-3401/Lecture 9 - graph queries - introduction to cypher, creating data, reading updating & deleting.md",
     ".md",
     "Untitled.canvas",
     "admin",

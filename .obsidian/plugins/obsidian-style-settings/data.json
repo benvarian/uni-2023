@@ -1,4 +1,9 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sky",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha"
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light"
 }

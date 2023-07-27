@@ -1,4 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "AnuPpuccin"
+  "accentColor": "#009ceb",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "defaultInitialization": false,
   "filePreviewOnHover": false,
+  "flowMenuEnabled": true,
   "markSans": false,
+  "blinkEnabled": true,
   "makeMenuPlaceholder": false,
   "mobileMakeBar": true,
   "inlineStyler": true,
@@ -28,27 +30,31 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
+  "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": []
+    "/": [],
+    "uni-2023": [
+      "sem 2",
+      "sem 2/Knowledge Representation",
+      "sem 2/Algorithms Agents and Artificial Intelligence"
+    ]
   },
   "expandedSpaces": [
     null,
     "/",
+    "uni-2023",
     null
   ],
-  "folderRank": {
-    "node": "root",
-    "children": [],
-    "isFolder": true
-  },
   "openFolders": [],
   "fileIcons": [],
-  "spaces": [],
-  "pinnedSpaces": [],
+  "cachedSpaces": [
+    "uni-2023"
+  ],
   "menuTriggerChar": "/",
+  "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
   "tagContextFolder": "Context",
@@ -59,14 +65,35 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "vaultSort": [
-    "rank",
-    true
-  ],
   "inlineBacklinks": true,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
+  "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
-  "inlineContextNameLayout": "vertical"
+  "inlineContextNameLayout": "vertical",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1690450372347,
+  "spacesUseAlias": false,
+  "precreateVaultSpace": true,
+  "fmKeyAlias": "alias",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "spaces": [],
+  "pinnedSpaces": [],
+  "vaultSort": [
+    "rank",
+    true
+  ]
 }

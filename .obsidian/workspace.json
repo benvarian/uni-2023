@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "145538d18f5a8936",
+        "id": "da6620591596deec",
         "type": "tabs",
         "children": [
           {
-            "id": "5185c1571acf747d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2bc634449db27ddb",
+            "id": "1d831ce9d3a9aea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cits-3002/Networks Exam study .md",
+                "file": "sem 2/Secure Coding/Intro to secure coding .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,22 +66,23 @@
             }
           },
           {
-            "id": "b18d6b83ace256a6",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "f01e44d3bf0e1ed7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "17a130d6f1336f5e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cits-3002/Networks Exam study .md",
+                "file": "sem 2/Secure Coding/Intro to secure coding .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cits-3002/Networks Exam study .md",
+                "file": "sem 2/Secure Coding/Intro to secure coding .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cits-3002/Networks Exam study .md"
+                "file": "sem 2/Secure Coding/Intro to secure coding .md"
               }
             }
           }
@@ -173,52 +165,52 @@
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "photos/Screenshot 2023-06-04 at 12.04.35 pm.png",
-    "photos/Screenshot 2023-06-04 at 11.56.30 am.png",
-    "photos/Screenshot 2023-06-04 at 11.40.48 am.png",
-    "photos/Screenshot 2023-06-04 at 11.34.48 am.png",
-    "photos/Screenshot 2023-06-04 at 11.34.12 am.png",
-    "photos/Screenshot 2023-06-04 at 11.30.02 am.png",
-    "photos/Screenshot 2023-06-03 at 2.57.47 pm.png",
-    "photos/Screenshot 2023-06-03 at 2.01.21 pm.png",
-    "photos/Screenshot 2023-06-03 at 12.43.34 pm.png",
-    "photos/Screenshot 2023-06-03 at 12.16.14 pm.png",
-    "photos/Screenshot 2023-06-03 at 12.07.21 pm.png",
-    "cits-3002/Networks Exam study .md",
-    "cits-3401/Lecture 11 - neo4j graph data science .md",
-    "cits-3401/Exam structure .md",
-    "cits-3401/Exam study .md",
-    "cits-3401/depth first search.md",
-    "cits-3401/A* shortest path.md",
-    "cits-3401/random walk.md",
-    "cits-3401/minimum spanning tree.md",
-    "cits-3401/all pairs shortest path.md",
-    "cits-3401/Yen's k-shortest path.md",
-    "cits-3401/dijkstra single-source shortest path.md",
-    "cits-3401/dijkstra souce-target shortest path.md",
-    "cits-3401/eurelian and hamtiltonian cycles.md",
-    "cits-3401/graph search algorithms.md",
-    "cits-3401/breadth first search.md",
-    "cits-3401/projecting the graph.md",
-    "cits-3401/algorithm traits.md",
-    "cits-3401/shortest path algorithms.md",
-    "issues.md",
-    "cits-3401/lecture 10 - advanced cypher and apoc .md",
-    "cits-3401/awesone procedures on cypher (apoc).md",
-    "cits-3401/virtual nodes & relationships.md",
-    "cits-3401/path expansion in cypher.md",
-    "cits-3401/loading csv's.md",
-    "cits-3401/collapsing nodes.md",
+    "sem 2/screenshots",
+    "sem 2/screenshots/Screenshot 2023-07-27 at 3.32.09 pm.png",
+    "sem 2/Professional Computing/Project management.md",
+    "sem 2/Secure Coding/Intro to secure coding .md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/intro to aaa.md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Home page for AAA.md",
+    "sem 2/Knowledge Representation/knowledge and information.md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Optimisation .md",
+    "sem 1/what to study for stat2401.md",
+    "Context/spacesLastSync.log",
+    "sem 2/Secure Coding",
+    "sem 2/Professional Computing",
+    "sem 2/Knowledge Representation",
+    "sem 2/Algorithms Agents and Artificial Intelligence",
+    "sem 2",
+    "sem 1/issues.md",
+    "context.mdb",
+    "sem 1",
+    "sem 1/cits-3401/Exam study .md",
+    "sem 1/cits-3401/first lecture.md",
+    "sem 1/cits-3401/lecture 7 - intro to graph and graph databases.md",
+    "admin/progress kanban.md",
+    "sem 1/cits-3002/kr 2.1-2.md",
+    "sem 1/cits-3002/Screenshot 2023-06-05 at 1.13.44 pm.png",
+    "sem 1/cits-3002/Screenshot 2023-06-05 at 1.08.24 pm.png",
+    "sem 1/cits-3401/Exam structure .md",
+    "sem 1/cits-3002/kr 8.9.1.md",
+    "sem 1/cits-3002/kr 8.1-3, 8.6.md",
+    "sem 1/cits-3002/Networks Exam study.md",
+    "sem 1/cits-3002/kr 3.3-5.md",
+    "sem 1/cits-3401/A* shortest path.md",
+    "sem 1/cits-3401/Lecture 11 - neo4j graph data science .md",
+    "sem 1/cits-3401/lecture 10 - advanced cypher and apoc .md",
+    "sem 1/cits-3401/Lecture 9 - graph queries - introduction to cypher, creating data, reading updating & deleting.md",
+    "sem 1/cits-3401/Lecture 8 - graph DBs and graph data modelling.md",
+    "sem 1/cits-3401/data cube technologies .md",
+    "sem 1/cits-3401/schema.md",
+    "sem 1/photos/Screenshot 2023-06-04 at 12.04.35 pm.png",
+    "sem 1/photos/Screenshot 2023-06-04 at 11.56.30 am.png",
+    "sem 1/photos/Screenshot 2023-06-04 at 11.40.48 am.png",
+    "sem 1/photos/Screenshot 2023-06-04 at 11.34.48 am.png",
+    "sem 1/photos/Screenshot 2023-06-04 at 11.34.12 am.png",
+    "sem 1/photos/Screenshot 2023-06-04 at 11.30.02 am.png",
+    "sem 1/photos/Screenshot 2023-06-03 at 2.57.47 pm.png",
     ".md",
     "Untitled.canvas",
-    "admin",
-    "context.mdb",
-    "Context",
-    "photos",
-    "cits-3002/Q1.datafile",
-    "stat-2401",
-    "cits-3002",
-    "cits-3401",
-    "stat-1400"
+    "admin"
   ]
 }

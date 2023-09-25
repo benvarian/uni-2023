@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "abff220c6666047f",
+        "id": "eb4ae7cc14fa0d8a",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6e263d841a66b9",
+            "id": "bcb05786d6204e4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 2/Global Literature/Lecture 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e77bcd3fa09f265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 2/Global Literature/Haruki Murakami and Usula Le guin short stories .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9a6277d7be2bfbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 2/Global Literature/Diasporic writing and ken liu's the paper menagerie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af0983c0f3f09931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 2/Global Literature/superfrog saves tokyo &amp; walks away .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3d9a32d7f87cd94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 2/Global Literature/Diasporic writing and ken liu's the paper menagerie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d959f8b4cae070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 2/Algorithms Agents and Artificial Intelligence/Agents and introduction to AI.md",
+                "file": "sem 2/Secure Coding/Concurrency bugs and race conditions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +74,7 @@
             }
           },
           {
-            "id": "e009207527ac0004",
+            "id": "6278a77a4a92f8e0",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -162,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem 2/Algorithms Agents and Artificial Intelligence/Agents and introduction to AI.md",
+                "file": "sem 2/Secure Coding/Concurrency bugs and race conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem 2/Algorithms Agents and Artificial Intelligence/Agents and introduction to AI.md",
+                "file": "sem 2/Secure Coding/Concurrency bugs and race conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +141,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem 2/Algorithms Agents and Artificial Intelligence/Agents and introduction to AI.md"
+                "file": "sem 2/Secure Coding/Concurrency bugs and race conditions.md"
+              }
+            }
+          },
+          {
+            "id": "9296b17f62b10b8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -220,56 +169,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "edb2358211a9aa25",
   "lastOpenFiles": [
-    "sem 2/Global Literature/Diasporic writing and ken liu's the paper menagerie.md",
-    "sem 2/screenshots/Screenshot 2023-08-08 at 12.38.14 pm.png",
-    "sem 2/screenshots/Screenshot 2023-08-08 at 12.48.11 pm.png",
-    "sem 2/Global Literature/Haruki Murakami and Usula Le guin short stories .md",
-    "sem 2/Global Literature/superfrog saves tokyo &amp; walks away .md",
-    "sem 2/Algorithms Agents and Artificial Intelligence/Agents and introduction to AI.md",
-    "Untitled.md",
-    "sem 2/Global Literature/Lecture 2.md",
-    "sem 2/Professional Computing/ethical issues.md",
-    "Chapter 9.md",
-    "sem 2/Algorithms Agents and Artificial Intelligence/Foundations of Logic.md",
-    "sem 2/Secure Coding/Memory and arithmetic errors.md",
-    "sem 2/screenshots/Screenshot 2023-08-06 at 4.42.18 pm.png",
-    "Untitled 1.md",
+    "sem 2/screenshots/Screenshot 2023-09-14 at 1.58.56 pm.png",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Sequential decision problems.md",
+    "sem 2/Secure Coding/Concurrency bugs and race conditions.md",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 1.04.01 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 1.03.28 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 1.02.02 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 1.00.01 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 12.39.44 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 12.38.01 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 12.37.37 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 12.36.51 pm.png",
+    "sem 2/screenshots/Screenshot 2023-09-25 at 12.18.47 pm.png",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Uninformed search algorithms.md",
     "sem 2/Algorithms Agents and Artificial Intelligence/Optimisation .md",
-    "sem 2/Global Literature/Genre and the short story form.md",
-    "sem 2/Global Literature/Intro.md",
-    "sem 2/screenshots/Screenshot 2023-07-31 at 3.52.29 pm.png",
-    "sem 2/screenshots/Screenshot 2023-07-31 at 9.05.28 pm.png",
-    "sem 2/screenshots/Screenshot 2023-07-31 at 4.03.31 pm.png",
-    "sem 2/Global Literature",
-    "sem 2/Professional Computing/foundations of group behaviour and work teams.md",
-    "sem 2/screenshots/Screenshot 2023-07-27 at 3.32.09 pm.png",
-    "sem 2/Algorithms Agents and Artificial Intelligence/Building problem solving skills .md",
-    "sem 2/Secure Coding/Intro to secure coding .md",
-    "sem 2/screenshots",
-    "sem 2/Professional Computing/Project management.md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Learning agents .md",
     "sem 2/Algorithms Agents and Artificial Intelligence/intro to aaa.md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Informed search algorithms.md",
+    "sem 2/screenshots/Screenshot 2023-09-14 at 7.06.57 pm.png",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Game playing .md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Foundations of Logic.md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Building problem solving skills .md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Week 4 Agents workshop.md",
+    "sem 2/Algorithms Agents and Artificial Intelligence/Agents and introduction to AI.md",
+    "sem 2/Secure Coding/Memory and arithmetic errors.md",
+    "sem 2/Secure Coding/Analysis and testing .md",
     "sem 2/Algorithms Agents and Artificial Intelligence/Home page for AAA.md",
-    "sem 2/Knowledge Representation/knowledge and information.md",
-    "sem 1/what to study for stat2401.md",
-    "Context/spacesLastSync.log",
-    "sem 2/Secure Coding",
-    "sem 2/Professional Computing",
-    "sem 2/Knowledge Representation",
-    "sem 2/Algorithms Agents and Artificial Intelligence",
-    "sem 2",
-    "sem 1/issues.md",
-    "context.mdb",
-    "sem 1",
-    "sem 1/cits-3401/Exam study .md",
-    "sem 1/cits-3401/first lecture.md",
-    "sem 1/cits-3002/Screenshot 2023-06-05 at 1.13.44 pm.png",
-    "sem 1/cits-3002/Screenshot 2023-06-05 at 1.08.24 pm.png",
-    "sem 1/photos/Screenshot 2023-06-04 at 12.04.35 pm.png",
+    "sem 2/Secure Coding/Injection and validation .md",
+    "sem 2/Secure Coding/Access control and setuid.md",
+    "sem 2/Global Literature/paper menagerie .md",
+    "sem 2/Global Literature/Critical Research Essay.md",
+    "sem 2/Global Literature/Diasporic writing and ken liu's the paper menagerie.md",
+    "sem 2/Global Literature/coming of age in a colonial context .md",
+    "sem 2/Knowledge Representation/Knowledge rep homework.md",
+    "sem 2/Knowledge Representation/uncertainty.md",
+    "sem 2/Global Literature/tut week 5 .md",
+    "sem 2/screenshots/IMG_2947.pdf",
+    "IMG_2947.heic",
+    "sem 2/Global Literature/~$nie John Q1 - excerpt 4.docx",
+    "sem 2/Global Literature/~$nie John Q1 - excerpt 3.docx",
+    "sem 2/Global Literature/~$nie John Q1 - excerpt 2.docx",
+    "sem 2/Global Literature/Annie John Q1 - excerpt 4.docx",
+    "sem 2/Global Literature/Unconfirmed 574756.crdownload",
+    "sem 2/Global Literature/Annie John Q1 - excerpt 3.docx",
+    "sem 2/Global Literature/Unconfirmed 302576.crdownload",
+    "sem 2/Global Literature/Annie John Q1 - excerpt 2.docx",
+    "requirements.md",
     "Untitled.canvas"
   ]
 }

@@ -48,6 +48,7 @@
     "uni-2023",
     null
   ],
+  "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
@@ -76,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691471272950,
+  "spacesAutoBackupLast": 1695618309955,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
@@ -85,6 +86,7 @@
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
   "indexSVG": false,
+  "readableLineWidth": true,
   "folderRank": {
     "node": "root",
     "children": [],

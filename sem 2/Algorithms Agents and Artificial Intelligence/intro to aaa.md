@@ -1,8 +1,6 @@
 ---
 tag: Lecture
 ---
-![[Home page for AAA]]
-
 key for moodle: cits3001-uwa2023
 
 all programming is done in python
